@@ -1,7 +1,8 @@
-import { Box, HStack, Text, VStack } from "@chakra-ui/react";
+import { HStack, Text, VStack } from "@chakra-ui/react";
 import PlaceCard from "../PlaceCard";
+import { TuristPoint } from "@/services/types";
 
-const ExploreArea = () => {
+const ExploreArea = ({places}) => {
   return (
     <VStack
       paddingY="24px"
@@ -25,8 +26,10 @@ const ExploreArea = () => {
         Próximos a você
       </Text>
 
-      <HStack paddingX={8}>
-        <PlaceCard />
+      <HStack paddingX={8} minW="full" overflowX="auto">
+      {places.map((place: TuristPoint, index: number) => (
+            <PlaceCard key={index} {...place} />
+          ))}
       </HStack>
 
       {/* {hasMoreThanOnePlace && (

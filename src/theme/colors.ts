@@ -9,7 +9,7 @@ const colors = {
   "primary-text": "#324B4F",
   white: "#FFF7F2",
   disable: "#E5DBCE",
-  placeCardBlur: "#0396A6d9",
+  "place-card-overlay": "#D9D9D94D",
   bgButton: "#FFF7F290",
 };
 
