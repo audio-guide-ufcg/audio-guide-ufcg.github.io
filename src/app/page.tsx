@@ -67,7 +67,7 @@ export default function Home() {
     <main>
       <Map />
       <SearchBar />
-      <ExploreArea places={places}/>
+      <ExploreArea places={orderedPlaces}/>
     </main>
   );
 }

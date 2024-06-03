@@ -2,7 +2,7 @@ import { HStack, Text, VStack } from "@chakra-ui/react";
 import PlaceCard from "../PlaceCard";
 import { TuristPoint } from "@/services/types";
 
-const ExploreArea = ({places}) => {
+const ExploreArea = ({ places }) => {
   return (
     <VStack
       paddingY="24px"
@@ -26,33 +26,11 @@ const ExploreArea = ({places}) => {
         Próximos a você
       </Text>
 
-      <HStack paddingX={8} minW="full" overflowX="auto">
-      {places.map((place: TuristPoint, index: number) => (
-            <PlaceCard key={index} {...place} />
-          ))}
+      <HStack paddingX="8px" minW="full" overflowX="auto">
+        {places.map((place: TuristPoint, index: number) => (
+          <PlaceCard key={index} place={place} />
+        ))}
       </HStack>
-
-      {/* {hasMoreThanOnePlace && (
-        <ScrollView horizontal contentContainerStyle={styles.places}>
-          {orderedPlaces.map((place: TuristPoint, index: number) => (
-            <PlaceCard key={index} {...place} />
-          ))}
-        </ScrollView>
-      )}
-
-      {!hasMoreThanOnePlace && (
-        <View style={styles.places}>
-          {orderedPlaces.map((place: TuristPoint, index: number) => (
-            <PlaceCard key={index} {...place} />
-          ))}
-        </View>
-      )}
-
-      {orderedPlaces?.length === 0 && (
-        <Text style={{ paddingHorizontal: 16, textAlign: "center" }}>
-          Não há pontos próximos
-        </Text>
-      )} */}
     </VStack>
   );
 };

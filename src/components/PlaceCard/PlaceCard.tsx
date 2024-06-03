@@ -9,13 +9,52 @@ import {
 } from "@chakra-ui/react";
 import Price from "./Price";
 import Distance from "./Distance";
+import { distanceBetweenCoords } from "@/utils/MapUtils";
+import useLocationStore from "@/hooks/useLocationStore";
+import PlaceCardStatus from "./PlaceCardStatus";
+import { TuristPoint } from "@/services/types";
 
 interface PlaceCardProps {
-  source: string;
+  place: any;
   children: any;
 }
 
-const PlaceCard: React.FC<PlaceCardProps> = ({ images, name, type }) => {
+const PlaceCard: React.FC<PlaceCardProps> = ({ place }) => {
+  const { images, name, type, entryPrice, longitude, latitude } = place;
+  const { location } = useLocationStore();
+  const distance = distanceBetweenCoords(location, { longitude, latitude });
+
+  const calculateStatus = (place: TuristPoint) => {
+    if (place.shouldContact) return "Indeterminado";
+
+    const now = new Date();
+    const workingHours = place[
+      `day${now.getDay() + 1}` as keyof TuristPoint
+    ] as string;
+
+    if (!workingHours) return "Fechado";
+
+    const times = workingHours.split(",");
+
+    const results = times.find((val) => {
+      const startingHour = val.split("-")[0];
+      const finishingHour = val.split("-")[1];
+
+      const start = new Date(`2000-01-01T${startingHour}:00`);
+      var end = new Date(`2000-01-01T${finishingHour}:00`);
+      if (end < start) end.setDate(end.getDate() + 1);
+
+      const hours = String(now.getHours()).padStart(2, "0");
+      const minutes = String(now.getMinutes()).padStart(2, "0");
+      const targetTime = `${hours}:${minutes}`;
+      const target = new Date(`2000-01-01T${targetTime}:00`);
+
+      return start <= target && target <= end;
+    });
+
+    return results ? "Aberto" : "Fechado";
+  };
+
   return (
     // <Link
     //   href="/place"
@@ -31,10 +70,10 @@ const PlaceCard: React.FC<PlaceCardProps> = ({ images, name, type }) => {
       alignItems="end"
       borderRadius="20px"
     >
-      {/* <PlaceCardStatus status={calculateStatus(place)} /> */}
+      <PlaceCardStatus status={calculateStatus(place)} />
       <Grid
         width="full"
-        backgroundColor="placeCardBlur"
+        backgroundColor="place-card-overlay"
         paddingX="16px"
         paddingY="8px"
         bottom="0"
@@ -58,8 +97,8 @@ const PlaceCard: React.FC<PlaceCardProps> = ({ images, name, type }) => {
 
         <GridItem alignContent="center">
           <VStack align="end" gap="3px" flexGrow={1} flex={1}>
-            <Price />
-            <Distance />
+            <Price price={entryPrice} />
+            <Distance distance={distance} />
           </VStack>
         </GridItem>
       </Grid>
