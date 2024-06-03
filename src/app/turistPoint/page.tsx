@@ -22,8 +22,9 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronLeft } from "@fortawesome/free-solid-svg-icons";
 import Divider from "@/components/Divider";
 import { useRouter } from "next/router";
+import { TuristPoint } from "@/services/types";
 
-const TuristPoint = () => {
+const TuristPointPage = () => {
 //   const router = useRouter();
   const { selectedPlace } = usePlacesStore();
 
@@ -56,9 +57,10 @@ const TuristPoint = () => {
           ))}
         </VStack>
         <VStack align="left">
-          {weekDays.map((val, index) => {
-            const text = selectedPlace?.[`day${index + 1}`]
-              ? `${selectedPlace?.[`day${index + 1}`]}`
+          {weekDays.map((_, index) => {
+            let day = `day${index + 1}` as keyof TuristPoint;
+            const text = selectedPlace && selectedPlace[day]
+              ? `${selectedPlace[day]}`
               : "Fechado";
 
             return (
@@ -72,8 +74,8 @@ const TuristPoint = () => {
     );
   };
 
-  const formatPrice = (price: number) => {
-    if (price === -1) {
+  const formatPrice = (price: number | undefined) => {
+    if (price === -1 || price === undefined) {
       return "Entrar em contato";
     }
 
@@ -107,8 +109,7 @@ const TuristPoint = () => {
         backgroundColor="bgButton"
         zIndex="1"
         textAlign="center"
-        width="32px"
-        height="32px"
+        size="32px"
         cursor="pointer"
       >
         <FontAwesomeIcon
@@ -222,4 +223,4 @@ const TuristPoint = () => {
   );
 };
 
-export default TuristPoint;
+export default TuristPointPage;

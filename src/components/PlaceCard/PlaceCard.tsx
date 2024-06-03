@@ -18,7 +18,6 @@ import usePlacesStore from "@/hooks/usePlacesStore";
 
 interface PlaceCardProps {
   place: any;
-  children: any;
 }
 
 const PlaceCard: React.FC<PlaceCardProps> = ({ place }) => {
@@ -59,12 +58,9 @@ const PlaceCard: React.FC<PlaceCardProps> = ({ place }) => {
   };
 
   return (
-    <Link
-      href="/turistPoint"
-      marginX="8px"
-      onClick={() => setSelectedPlace(place)}
-    >
+    <Link href="/turistPoint" onClick={() => setSelectedPlace(place)}>
       <Flex
+        marginX="8px"
         backgroundImage={`url('https://image-store-five.vercel.app/${images[0].id}.jpg')`}
         backgroundSize="cover"
         backgroundPosition="center"
