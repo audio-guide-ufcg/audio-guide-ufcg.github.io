@@ -2,7 +2,11 @@ import { HStack, Text, VStack } from "@chakra-ui/react";
 import PlaceCard from "../PlaceCard";
 import { TuristPoint } from "@/services/types";
 
-const ExploreArea = ({ places }) => {
+interface ExploreAreaProps {
+  places: any;
+}
+
+const ExploreArea: React.FC<ExploreAreaProps> = ({ places }) => {
   return (
     <VStack
       paddingY="24px"

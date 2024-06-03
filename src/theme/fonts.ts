@@ -1,5 +1,5 @@
 const fonts = {
-    body: "Lato",
+    body: "Montserrat",
 };
 
 export default fonts;
