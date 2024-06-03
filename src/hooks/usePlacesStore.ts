@@ -2,14 +2,23 @@ import { create } from "zustand";
 import Cookies from "js-cookie";
 import { TuristPoint } from "@/services/types";
 
-const usePlacesStore = create((set) => ({
-  places: [] as TuristPoint[],
+interface PlacesStore {
+  places: TuristPoint[];
+  selectedPlace?: TuristPoint;
+  setSelectedPlace: (turistPoint: TuristPoint) => void;
+  setPlaces: (places: TuristPoint[]) => void;
+}
+
+// Create the store with the defined types
+const usePlacesStore = create<PlacesStore>((set) => ({
+  places: [],
   selectedPlace: undefined,
-  setSelectedPlace: (id: number) => {
-    Cookies.set("lastSeenPlace", id.toString());
-    set({ selectedPlace: id });
+  setSelectedPlace: (turistPoint: TuristPoint) => {
+    Cookies.set("lastSeenPlace", turistPoint.id.toString());
+    set({ selectedPlace: turistPoint});
   },
-  setPlaces: (places: any) => set({ places: places }),
+  setPlaces: (places: TuristPoint[]) => set({ places: places }),
 }));
+
 
 export default usePlacesStore;
