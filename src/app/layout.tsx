@@ -4,6 +4,7 @@ import "./globals.css";
 import { Box, ChakraProvider } from "@chakra-ui/react";
 import theme from "@/theme";
 import { Providers } from "./providers";
+import Fonts from "@/components/Fonts";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -22,6 +23,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <Providers>
           <ChakraProvider theme={theme}>
+            <Fonts />
             <Box width="100vw" height="100vh">
               {children}
             </Box>
