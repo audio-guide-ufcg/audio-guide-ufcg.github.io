@@ -11,7 +11,7 @@ const PlaceCardStatus: React.FC<PlaceCardStatusProps> = ({ status }) => (
     top="24px"
     paddingY="4px"
     paddingX="12px"
-    backgroundColor="primaryText"
+    backgroundColor="primary-text"
   >
     <Text fontSize="12px" color="white">
       {status}
