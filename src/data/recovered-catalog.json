@@ -1,0 +1,1698 @@
+{
+  "provenance": {
+    "url": "https://docs.google.com/spreadsheets/d/1rHtn1spLy5AupAzswlfIGmBV3eJq3pxrBDYPgZplKFA/edit",
+    "retrieved": "2026-10-30",
+    "contentYear": 2024,
+    "ids": "Negative CRC32 of original audio UUID + 1; local only, not database IDs."
+  },
+  "points": [
+    {
+      "id": -82142817,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Parque da Criança",
+      "type": "Parque",
+      "latitude": -7.22709592645335,
+      "longitude": -35.8783363713173,
+      "address": "Av. Dr. Elpídio de Almeida, 215 - Catolé, Campina Grande - PB, 58410-215",
+      "entryPrice": 0.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "Lazer",
+        "Natureza e Ecoturismo"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/7303b8c0-168e-4608-baf2-dd72937754f1.jpg",
+          "credits": "Clemilton S"
+        },
+        {
+          "url": "/catalog/images/17fd2c6d-6396-47af-9a29-ffaa68a84715.jpg",
+          "credits": "Clemilton S"
+        },
+        {
+          "url": "/catalog/images/0eb91096-4e24-4cbd-b6d9-f91208892a0a.jpg",
+          "credits": "Clemilton S"
+        },
+        {
+          "url": "/catalog/images/3c30cc5a-a95b-4ada-865d-799012d223b3.jpg",
+          "credits": "Clemilton S"
+        },
+        {
+          "url": "/catalog/images/04627266-d03d-4113-a6e1-8a306483f722.jpg",
+          "credits": "Clemilton S"
+        }
+      ],
+      "audio": "/catalog/audio/fd0f94af-2ef7-490d-8923-e25addf2874e.mp3",
+      "transcript": "O Parque da Criança, localizado em Campina Grande, Paraíba, é um espaço encantador dedicado ao entretenimento e desenvolvimento das crianças. Inaugurado em 12 de outubro de 1993, foi concebido para oferecer um ambiente seguro e lúdico onde os pequenos podem explorar, brincar e aprender de forma divertida. Situado no local do antigo curtume São José, fundado em 1942 durante o ciclo do couro, o parque transformou-se em uma vasta área ecológica de lazer e práticas esportivas.\nCom uma ampla área verde repleta de playgrounds, equipamentos recreativos e áreas de descanso. O parque também oferece quadras poliesportivas, pista de skate e outros espaços para atividades físicas. Com eventos especiais que incluem apresentações musicais, dança e ginástica, o parque se estabeleceu como um dos principais pontos de lazer da cidade, contribuindo para o desenvolvimento infantil e proporcionando momentos de diversão para toda a família.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": false,
+      "hours": [
+        "04:00-19:00",
+        "04:00-11:00,13:00-20:30",
+        "04:00-11:00,13:00-20:30",
+        "04:00-11:00,13:00-20:30",
+        "04:00-11:00,13:00-20:30",
+        "04:00-11:00,13:00-20:30",
+        "05:00-19:00"
+      ]
+    },
+    {
+      "id": -2040745114,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Parque do Povo",
+      "type": "Parque",
+      "latitude": -7.22375473064697,
+      "longitude": -35.8875782050409,
+      "address": "R. Sebastião Donato, S/N - Centro, Campina Grande - PB, 58400-355",
+      "entryPrice": 0.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "História e Cultura",
+        "Entretenimento e Eventos",
+        "Arquitetura e Urbanismo"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/1ca9fbcd-f10a-41d9-8040-771272dc717d.jpg",
+          "credits": "Leydson Jackson"
+        },
+        {
+          "url": "/catalog/images/71abcbc5-8825-4f8f-8a7c-aabc77e045c4.jpg",
+          "credits": "Leydson Jackson"
+        },
+        {
+          "url": "/catalog/images/fc4b7550-22e2-4a15-81ba-80509860049f.jpg",
+          "credits": "Leydson Jackson"
+        },
+        {
+          "url": "/catalog/images/f9c139b5-7c18-4067-aa45-de28c3813b62.jpg",
+          "credits": "PMCG"
+        }
+      ],
+      "audio": "/catalog/audio/e882597c-6ee7-48a5-a050-4ba5feba8659.mp3",
+      "transcript": "O Parque do Povo, localizado em Campina Grande, Paraíba, é um parque urbano conhecido por sediar o famoso evento \"O Maior São João do Mundo\". Inaugurado em 1986, teve sua origem ligada à iniciativa do ex-prefeito Enivaldo Ribeiro, que criou um \"Palhoção\" no local, posteriormente transformado em \"Forródromo\" por Ronaldo Cunha Lima. Desde então, o parque se tornou o epicentro das festividades juninas na cidade, atraindo grande atenção nacional e internacional. Com uma área de 42 mil e 500 metros quadrados, durante o São João, chega a receber uma média de 100 mil pessoas por noite. Apesar de enfrentar problemas estruturais ao longo dos anos, o Parque do Povo passou por revitalizações e hoje é considerado uma referência de qualidade, com modernas instalações e sistema de drenagem.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": false,
+      "hours": [
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59"
+      ]
+    },
+    {
+      "id": -631382890,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Museu de Arte Popular da Paraíba",
+      "type": "Museu",
+      "latitude": -7.22416182865974,
+      "longitude": -35.8788764023839,
+      "address": "R. Dr. Severino Cruz, s/n - Centro, Campina Grande - PB, 58400-258",
+      "entryPrice": 0.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "História e Cultura",
+        "Arte",
+        "Arquitetura e Urbanismo"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/605e2bcf-16b0-40e8-86d1-63be3a4ef3bd.jpg",
+          "credits": "Thiago Japyassu"
+        },
+        {
+          "url": "/catalog/images/64003801-e64e-4d08-9182-df1c09b2f0d3.jpg",
+          "credits": "Cacio Murilo/Mtur"
+        },
+        {
+          "url": "/catalog/images/4e1f0a9f-996b-42a3-a6ab-18c24e7967eb.jpg",
+          "credits": "Victor Cayke"
+        },
+        {
+          "url": "/catalog/images/c922ab1e-e072-49f8-9c61-cdf12e91c98f.jpg",
+          "credits": "Cacio Murilo/Mtur"
+        },
+        {
+          "url": "/catalog/images/ebcb5239-69ee-418c-bb16-5087b4f078b7.jpg",
+          "credits": "Cacio Murilo/Mtur"
+        },
+        {
+          "url": "/catalog/images/20da54ee-7c40-410c-8be5-89ee517a42db.jpg",
+          "credits": "Cacio Murilo/Mtur"
+        }
+      ],
+      "audio": "/catalog/audio/4a808fc5-f887-448c-ba66-6ccf90b5ced3.mp3",
+      "transcript": "O Museu de Arte Popular da Paraíba, em Campina Grande, inaugurado em 13 de dezembro de 2012, é um espaço cultural de grande importância dedicado à preservação, valorização e divulgação da rica cultura popular do estado.\nA última obra em vida do renomado arquiteto Oscar Niemeyer, o Museu de Arte Popular da Paraíba, destaca-se pela sua arquitetura moderna e simbólica que se integra às margens do Açude Velho. Este projeto reúne exposições de artesanato e artigos do cotidiano dos paraibanos, proporcionando um ambiente que harmoniza o tradicional e o contemporâneo.\nAlém de exposições permanentes de arte popular, incluindo esculturas, cerâmicas, rendas, bordados e arte em madeira que representam a identidade cultural paraibana, o museu realiza exposições temporárias, palestras e oficinas. É um verdadeiro tesouro cultural, onde o passado e o presente se encontram para encantar e inspirar todos os visitantes.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": false,
+      "hours": [
+        "14:00-19:00",
+        "",
+        "10:00-19:00",
+        "10:00-19:00",
+        "10:00-19:00",
+        "10:00-19:00",
+        "14:00-19:00"
+      ]
+    },
+    {
+      "id": -2082505580,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Vila do Artesão",
+      "type": "Mercado",
+      "latitude": -7.22848926204518,
+      "longitude": -35.8904550471396,
+      "address": "São José, Campina Grande - PB, 58416-450",
+      "entryPrice": 0.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "História e Cultura",
+        "Gastronomia",
+        "Arte",
+        "Compras e Artesanato"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/71de2906-a411-4a3e-92c5-0e9aafdb6153.jpg",
+          "credits": "Alberto Melo"
+        },
+        {
+          "url": "/catalog/images/2ccfff35-f54d-4352-b423-72831b9de6db.jpg",
+          "credits": "Edson Saiki"
+        }
+      ],
+      "audio": "/catalog/audio/36becee8-97c5-4dee-8332-c4e1465708c4.mp3",
+      "transcript": "A Vila do Artesão, fundada em dezembro do ano de 2010, na então administração do Prefeito Veneziano Vital do Rêgo, é um espaço cultural em Campina Grande que reúne mais de 200 artesãos em um único local. Com galpões de produção, 77 lojas, uma praça de alimentação, espaço para apresentações culturais, e um auditório com capacidade para 100 pessoas, a Vila também apresenta réplicas cenográficas de uma igrejinha e uma casa de taipa, que retratam a cultura e a história do povo nordestino, reproduzindo com precisão os adereços e costumes do cotidiano rural.\nO talento e a criatividade dos artesãos manifestam-se em diversas formas, utilizando uma variedade de materiais, técnicas e expressões. As peças, que incluem trabalhos em madeira, couro, cerâmica, metais, renda, fios, bordados e artesanato em algodão colorido, refletem histórias e o imaginário popular da nossa cultura.\nO pavilhão gastronômico, composto por 7 restaurantes, oferece comidas típicas nordestinas e bebidas em um ambiente belamente decorado. Além disso, o pavilhão é o palco do evento “Forró na Vila”, conforme a programação.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": false,
+      "hours": [
+        "",
+        "10:00-18:00",
+        "10:00-18:00",
+        "10:00-18:00",
+        "10:00-18:00",
+        "10:00-18:00",
+        "10:00-18:00"
+      ]
+    },
+    {
+      "id": -739718440,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Teatro Municipal Severino Cabral",
+      "type": "Teatro",
+      "latitude": -7.22113847037282,
+      "longitude": -35.8877437905132,
+      "address": "Av. Mal. Floriano Peixoto, S/N - Centro, Campina Grande - PB, 58400-165",
+      "entryPrice": -1.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "História e Cultura",
+        "Arte"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/dc224d1d-7b47-4329-87e5-a2ca36f944f7.jpg",
+          "credits": "Diego M"
+        }
+      ],
+      "audio": "/catalog/audio/52b894c8-ea6d-44d5-93ed-0b40aadea4e3.mp3",
+      "transcript": "Inaugurado em 30 de novembro de 1963, o Teatro Municipal Severino Cabral foi projetado pelo engenheiro Geraldino Duda, que idealizou uma das casas de teatro mais modernas do Brasil, com formato que lembra um apito, simbolizando o sopro da cultura da Serra da Borborema. Realização do então prefeito Severino Bezerra Cabral, o teatro rapidamente se tornou um centro cultural vibrante. Com uma área de 4.816 m², sua arquitetura moderna combina beleza estética com funcionalidade, incluindo uma plateia espaçosa, camarotes, e um palco de 400 m². O teatro também conta com uma galeria de arte, miniteatro, sanitários públicos e outras instalações que garantem conforto e acessibilidade aos visitantes.\nA construção do teatro trouxe a alta cultura para Campina Grande, democratizando o acesso à música clássica, balé e outras artes no interior do Nordeste. Dessa iniciativa, surgiram eventos como o Festival Internacional de Música de Campina Grande (FIMUS) e o Festival de Inverno.\nO Teatro Municipal Severino Cabral oferece uma programação diversificada ao longo do ano, com espetáculos teatrais, musicais, shows de dança e festivais de cinema. Além disso, abriga palestras, workshops e exposições, contribuindo para a formação cultural da comunidade. Nos anos 1990, uma escola de dança foi inaugurada dentro do teatro, oferecendo aulas de balé clássico para crianças carentes, revelando talentos locais e fortalecendo o cenário artístico de Campina Grande.\nMais do que um espaço de entretenimento, o teatro desempenha um papel crucial na valorização da produção cultural regional, com apresentações de companhias de teatro locais, nacionais e internacionais, disseminando a riqueza cultural da cidade para um público mais amplo.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": true,
+      "hours": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": -1618350244,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "SESI Museu Digital",
+      "type": "Museu",
+      "latitude": -7.22605736485183,
+      "longitude": -35.8843933428078,
+      "address": "R. Miguel Couto, 10 - Centro, Campina Grande - PB, 58400-273",
+      "entryPrice": 10.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "História e Cultura",
+        "Arte"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/8fefcf5e-b877-46fa-b626-80841cf7094a.jpg",
+          "credits": "Cacio Murilo/Mtur"
+        },
+        {
+          "url": "/catalog/images/1cfe53af-c9b0-4be0-85ed-32534f9d8a50.jpg",
+          "credits": "Cacio Murilo/Mtur"
+        },
+        {
+          "url": "/catalog/images/e4fb6177-da0f-4ce2-9732-3a1a91756f5e.jpg",
+          "credits": "Cacio Murilo/Mtur"
+        }
+      ],
+      "audio": "/catalog/audio/ec1e386b-78cb-48cb-9ad4-808aa8182f4e.mp3",
+      "transcript": "O Museu Digital de Campina Grande, inaugurado em novembro de 2017 pelo Departamento Regional do Serviço Social da Indústria (SESI/PB), é um espaço que apresenta uma leitura moderna da história da cidade, destacando seu desenvolvimento a partir do século XX. Esta pesquisa analisa o museu como um espaço de História Pública, onde diferentes discursos se entrelaçam para criar uma narrativa interdisciplinar. Ao explorar a interatividade oferecida por dispositivos tecnológicos como tablets, projeções mapeadas e realidade virtual, busca-se entender como a história é transmitida e como o público interage com ela. A proposta é problematizar as intencionalidades por trás dos documentos e da mensagem histórica, reconhecendo o potencial da interatividade para democratizar o acesso à cultura e ao conhecimento histórico.",
+      "language": "pt",
+      "email": "",
+      "telephone": "8.3981154894E10",
+      "shouldContact": false,
+      "hours": [
+        "10:00-16:00",
+        "09:00-18:00",
+        "09:00-18:00",
+        "09:00-18:00",
+        "09:00-18:00",
+        "09:00-18:00",
+        "10:00-16:00"
+      ]
+    },
+    {
+      "id": -3078704688,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Museu Histórico e Geográfico de Campina Grande",
+      "type": "Museu",
+      "latitude": -7.21825391785121,
+      "longitude": -35.8817672418742,
+      "address": "Av. Mal. Floriano Peixoto, 825 - Centro, Campina Grande - PB, 58400-185",
+      "entryPrice": 0.0,
+      "accessible": false,
+      "rating": 0,
+      "tags": [
+        "História e Cultura",
+        "Economia"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/0da50721-bb4a-4637-abf1-3973f289933f.jpg",
+          "credits": "Alberto Melo"
+        }
+      ],
+      "audio": "/catalog/audio/e80c621b-3b4f-4215-a2c2-b02575bfb822.mp3",
+      "transcript": "O Museu Histórico e Geográfico de Campina Grande, situado em um edifício de 1814, é um ponto turístico essencial para conhecer a rica história da cidade. Originalmente, o prédio abrigou a Cadeia Municipal e o Senado (Casa da Câmara). Na época, a cidade ainda era oficialmente conhecida como Vila Nova da Rainha, antes de ser elevada à categoria de cidade em 1864. Além dessas funções, o local foi a sede da Estação Telegráfica, desempenhando um papel crucial na comunicação regional. A inscrição \"Telegrapho Nacional\" ainda é visível na fachada.\nUm evento marcante foi a prisão do revolucionário Frei Caneca, líder da Confederação do Equador (um movimento republicano e separatista que eclodiu em Pernambuco), em dezembro de 1824. Preso no Ceará e levado ao Recife para julgamento, Frei Caneca passou por Campina Grande, onde recebeu ajuda de Manoel Alexandre, um homem negro e pobre que lhe levou roupas, lençóis, bolachas e vinho, gesto registrado pelo próprio revolucionário em seu diário, “Itinerário do Ceará”. Após sua prisão, Frei Caneca foi levado ao Recife, onde foi condenado à morte, mas devido à recusa dos carrascos em executá-lo, a sentença foi modificada para fuzilamento, ocorrido em 13 de janeiro de 1825.\nTransformado em museu em 28 de janeiro de 1983, o Museu Histórico e Geográfico de Campina Grande preserva a memória da cidade e da região circundante em um prédio histórico que abriga um vasto acervo de objetos, documentos, fotos e obras de arte que narram sua trajetória desde os primórdios. Surgido de iniciativas de preservação do patrimônio histórico no início do século XX por um grupo de intelectuais e pesquisadores, o museu evoluiu para um espaço dedicado à exposição e preservação desse acervo. Os visitantes podem conhecer a colonização, economia, tradições, personagens ilustres e eventos marcantes da cidade, além de participar de exposições temporárias, palestras, cursos e atividades educativas que envolvem a comunidade local e difundem o conhecimento histórico e cultural.\nO museu não só preserva o passado, mas também valoriza a identidade e a consciência histórica da população, fortalecendo a cultura local e fomentando o turismo cultural na região.",
+      "language": "pt",
+      "email": "",
+      "telephone": "8.333228699E9",
+      "shouldContact": false,
+      "hours": [
+        "",
+        "",
+        "08:00-13:00",
+        "08:00-13:00",
+        "08:00-13:00",
+        "08:00-13:00",
+        "08:00-12:00"
+      ]
+    },
+    {
+      "id": -1028754928,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Museu de História e Tecnologia do Algodão",
+      "type": "Museu",
+      "latitude": -7.22932906922647,
+      "longitude": -35.8846615081124,
+      "address": "R. Benjamin Constant - Centro, Campina Grande - PB, 58410-003",
+      "entryPrice": 0.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "História e Cultura"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/5e9648e3-d1a5-4b34-a0e0-d0c9834e03ab.jpg",
+          "credits": "Cacio Murilo/Mtur"
+        },
+        {
+          "url": "/catalog/images/21263140-8231-4180-bd56-09eeb30583e1.jpg",
+          "credits": "Cacio Murilo/Mtur"
+        },
+        {
+          "url": "/catalog/images/311925d7-bc2c-4118-aa85-b5c853a8acc5.jpg",
+          "credits": "Cacio Murilo/Mtur"
+        },
+        {
+          "url": "/catalog/images/650a1c82-8eb4-49dc-868f-7e2d9dd46c3d.jpg",
+          "credits": "Cacio Murilo/Mtur"
+        }
+      ],
+      "audio": "/catalog/audio/5875ca84-cd04-48eb-9b55-feb7774e404c.mp3",
+      "transcript": "A Estação Velha, inaugurada em 2 de outubro de 1907, marcou a chegada do trem a Campina Grande, impulsionando o desenvolvimento econômico e consolidando a cidade como um importante centro comercial e industrial. Durante o ciclo do algodão, Campina Grande se destacou mundialmente como um dos maiores exportadores do produto, com a Estação Velha desempenhando um papel crucial no transporte de algodão e outros produtos agrícolas.\nAtualmente, a Estação Velha abriga o Museu de História e Tecnologia do Algodão, oferecendo uma viagem no tempo que destaca a importância da indústria do algodão para Campina Grande e a Paraíba. O museu documenta o ciclo do algodão e as transformações tecnológicas e sociais ocorridas ao longo dos anos através de exposições interativas, acervos históricos, fotografias, documentos e objetos. Além disso, promove atividades educativas como palestras, workshops e visitas guiadas, disseminando conhecimento sobre a história regional.\nA arquitetura da Estação Velha, preservada em seu estilo do início do século XX, é um exemplo de patrimônio histórico da cidade. A primeira viagem de trem para Campina Grande, originada em Itabaiana, foi marcada por ameaças do cangaceiro Antônio Silvino, mas chegou são e salvo, iniciando uma nova era para a cidade. O distrito de Galante, que surgiu com a construção da estação, tornou-se um ponto turístico vibrante, especialmente durante o São João, com sua culinária regional e eventos como o Trem do Forró, fortalecendo a economia local e celebrando a cultura regional.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": false,
+      "hours": [
+        "",
+        "",
+        "07:00-13:00",
+        "07:00-13:00",
+        "07:00-13:00",
+        "07:00-13:00",
+        "07:00-12:00"
+      ]
+    },
+    {
+      "id": -3239195472,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Açude Velho",
+      "type": "Corpo d'água",
+      "latitude": -7.22479451203646,
+      "longitude": -35.8770993265445,
+      "address": "R. João Florentino de Carvalho, 05 - José Pinheiro, Campina Grande - PB, 58400-312",
+      "entryPrice": 0.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "Arquitetura e Urbanismo",
+        "Lazer"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/5677d103-0322-4eb2-9d2f-f238e24f7716.jpg",
+          "credits": "Cacio Murilo/Mtur"
+        },
+        {
+          "url": "/catalog/images/4ac07c06-d7f6-4c66-aa0c-baa6729c9c8b.jpg",
+          "credits": "Cacio Murilo/Mtur"
+        },
+        {
+          "url": "/catalog/images/d42b3eaf-aa36-4793-b479-2ce77731013d.jpg",
+          "credits": "Thiago Japyassu"
+        },
+        {
+          "url": "/catalog/images/76060a7c-b74e-44f9-8581-739d0fc10831.jpg",
+          "credits": "Thiago Japyassu"
+        }
+      ],
+      "audio": "/catalog/audio/f6b21290-52d3-4911-8a02-eeaa13d0c1ed.mp3",
+      "transcript": "O Açude Velho de Campina Grande, construído entre 1826 e 1830 para enfrentar uma das piores secas da região, tornou-se um ponto vital de abastecimento de água. Com o tempo, ele evoluiu para um espaço cultural e histórico, sendo palco de festas, eventos e até lutas de boxe no século XX. Ao redor do açude, há um verdadeiro museu a céu aberto, incluindo o Museu de Arte Popular da Paraíba e monumentos como \"Os Pioneiros da Borborema\", as estátuas de Luiz Gonzaga e Jackson do Pandeiro, e o \"Monumento aos 150 anos\", celebrando a história e os tropeiros da região.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": false,
+      "hours": [
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59"
+      ]
+    },
+    {
+      "id": -3848866185,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Feira Central",
+      "type": "Mercado",
+      "latitude": -7.21991468312322,
+      "longitude": -35.8770105878775,
+      "address": "R. Dr. Carlos Agra - Centro, Campina Grande - PB, 58400-204",
+      "entryPrice": 0.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "Gastronomia",
+        "Compras e Artesanato"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/6510593b-98be-4d6b-861e-2de8214aa012.jpg",
+          "credits": "Cacio Murilo/Mtur"
+        },
+        {
+          "url": "/catalog/images/e7d5a2f8-e7dc-4bf8-a229-7b3982e53766.jpg",
+          "credits": "Cacio Murilo/Mtur"
+        }
+      ],
+      "audio": "/catalog/audio/2ab8fdc9-1da7-4f21-b8e5-5cea82f7e515.mp3",
+      "transcript": "A Feira Central de Campina Grande, tombada como patrimônio cultural imaterial do Brasil pelo Ministério da Cultura em 2017, é um verdadeiro tesouro cultural e histórico da cidade.\nAté o final do século XIX, a localização da feira refletia o poder político da cidade. Se os liberais estavam no comando, a feira se situava em frente ao antigo mercado de Baltazar Luna, onde hoje funciona o Museu de Arte Assis Chateaubriand. Quando os conservadores estavam no poder, a feira se movia para a frente do mercado de Alexandrino Cavalcante. Esse vaivém continuou até 1892, quando comerciantes e feirantes se uniram em um abaixo-assinado para estabilizar a localização da feira. O chefe do Estado visitou a cidade e decidiu que a feira deveria permanecer em um local mais plano e estratégico, próximo à feira de gado e às principais saídas da cidade para o brejo e o sertão.\nA feira manteve-se nesse local até o início da década de 1940, quando foi transferida para onde hoje funciona o atual Mercado Central de Campina Grande. Este movimento consolidou a feira como o centro comercial mais importante da cidade, mantendo sua relevância até os dias atuais.\nA Feira Central de Campina Grande é famosa por sua diversidade e riqueza cultural. Celebrada por Gilberto Gil como um grande \"Carrefour onde tudo está à venda\", a feira é um reduto gastronômico, oferecendo uma vasta gama de especiarias, doces, queijos, frutas, hortaliças, flores e comidas típicas. É um lugar onde os aromas, sabores e cores se misturam, criando uma atmosfera única e envolvente.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": false,
+      "hours": [
+        "",
+        "05:00-18:00",
+        "05:00-18:00",
+        "05:00-18:00",
+        "05:00-18:00",
+        "05:00-18:00",
+        "05:00-18:00"
+      ]
+    },
+    {
+      "id": -2549557203,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Museu de Artes Assis Chateaubriand",
+      "type": "Museu",
+      "latitude": -7.21904292563431,
+      "longitude": -35.882508868151,
+      "address": "Av. Mal. Floriano Peixoto, 718 - Centro, Campina Grande - PB, 58400-180",
+      "entryPrice": 0.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "Arte",
+        "História e Cultura"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/857ae47d-7ab9-4e49-8339-94e50e324cd2.jpg",
+          "credits": "Olavo Luiz"
+        }
+      ],
+      "audio": "/catalog/audio/a36f818f-33ec-43a8-beed-051dc23e581d.mp3",
+      "transcript": "O Museu de Arte Assis Chateaubriand (MAAC) é um verdadeiro tesouro cultural da cidade. Fundado em 1967 por Francisco de Assis Chateaubriand Bandeira de Mello, mais conhecido como Assis Chateaubriand ou Chatô, o museu não apenas abriga uma vasta coleção de arte, mas também simboliza a rica história e contribuição de seu fundador para a cidade.\nAssis Chateaubriand, natural de Umbuzeiro, Paraíba, foi uma figura influente no Brasil entre as décadas de 1940 e 1960. Ele trouxe o primeiro aparelho de TV para Campina Grande em 1951, durante uma campanha para o Senado, e impressionou os campinenses ao transmitir seu discurso em um ato público. Esse evento marcou o início de uma relação profunda e duradoura entre Chateaubriand e a cidade.\nChateaubriand fez grandes investimentos em Campina Grande, incluindo a fundação da Rádio Borborema, do Jornal Diário da Borborema e da TV Borborema, a primeira estação de televisão da Paraíba. No entanto, uma de suas contribuições mais duradouras e valiosas foi o Museu de Arte que leva seu nome. O MAAC abriga um acervo impressionante de mais de 700 obras de arte de renomados artistas brasileiros, como Cândido Portinari, Pedro Américo, Di Cavalcanti, e Anita Malfatti. Através de pinturas, gravuras e desenhos, o museu oferece um panorama abrangente da rica produção artística nacional, desde o século XIX até as vanguardas dos anos 1960.\nA história de Chateaubriand com Campina Grande remonta à sua infância. Quando criança, ele sofria de gagueira e timidez, o que dificultava sua adaptação na escola. Em 1903, seu pai, Francisco Chateaubriand, conseguiu uma promessa de vaga para ele na Escola Naval do Recife, contanto que ele passasse no Exame de Admissão. Para isso, Francisco pediu ajuda ao tio e padrinho de Chatô, o Dr. Chateaubriand Bandeira de Melo, primeiro médico de Campina Grande, que acolheu o afilhado e assumiu sua educação formal, capacitando-o para o exame. Esse período em Campina Grande pode ter sido um fator que motivou Chatô a investir tanto na cidade.\nO MAAC está localizado no prédio histórico do antigo Grupo Escolar Solon de Lucena, construído em 1924, que foi a primeira escola estadual de Campina Grande. O edifício, projetado pelo arquiteto italiano Hermenegildo Di Lascio, é uma obra de arte por si só, com suas linhas modernistas e fachada em tons de branco e azul, destacando-se na paisagem urbana da cidade.\nO museu foi criado no contexto da campanha nacional de museus regionais, com o objetivo de descentralizar o foco das manifestações de arte do eixo Rio-São Paulo. Foram criados três museus nessa campanha, sendo o MAAC um deles. Em sua inauguração, o museu recebeu 120 obras doadas por diversos segmentos da sociedade brasileira, e ao longo dos anos seu acervo foi ampliado com doações de figuras como Jorge Amado, Banco Central do Brasil, Associação de Artistas Plásticos e Universidade de Guadalajara.\nAlém de ser um espaço de exposição, o MAAC se transformou em uma espécie de escola, oferecendo cursos e ateliês de formação para professores e pintores. O museu promove exposições temporárias, atividades educativas e eventos culturais, enriquecendo a vida cultural de Campina Grande e proporcionando aos visitantes uma experiência enriquecedora e inspiradora.",
+      "language": "pt",
+      "email": "",
+      "telephone": "8.333411947E9",
+      "shouldContact": false,
+      "hours": [
+        "",
+        "",
+        "08:00-17:00",
+        "08:00-17:00",
+        "08:00-17:00",
+        "08:00-17:00",
+        ""
+      ]
+    },
+    {
+      "id": -538505189,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Farra da Bodega",
+      "type": "Monumento",
+      "latitude": -7.22443090564703,
+      "longitude": -35.8801209785407,
+      "address": "Centro, Campina Grande - PB, 58400-243",
+      "entryPrice": 0.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "Arte",
+        "História e Cultura"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/c043ab4d-47fd-4d44-83b0-9caad78a8d48.jpg",
+          "credits": "Gustavo Xavier/G1"
+        },
+        {
+          "url": "/catalog/images/f814b591-f411-4e0a-8a21-8e16230fada5.jpg",
+          "credits": "Imara Queiroz"
+        }
+      ],
+      "audio": "/catalog/audio/47886970-8a3f-4a16-b1f5-7800bcd400e6.mp3",
+      "transcript": "Criada pelo artista campinense Joás Pereira Passos, esta obra em bronze foi inaugurada em 2003. Esta escultura não apenas celebra a vida e obra desses artistas, mas também oferece um espaço interativo para os visitantes.\nAlém das esculturas dos músicos, você encontrará uma mesa adornada com pratos típicos e representações de comidas regionais, bem como um banquinho onde os turistas adoram tirar fotos e interagir com a obra.\nMas quem são estes personagens aqui representados?\nO mestre Jackson do Pandeiro nasceu José, mas nos palcos e cabarés, foi apelidado de Jack, porque diziam que ele era a cara do ator de faroeste Jack Perrin. De Jack para Jackson foi um pulo. Sempre com seu pandeiro, ele ajudou a popularizar o som desse instrumento pelo Brasil.\nO 'Rei do Ritmo' fez sua estreia nos palcos do clube Ipiranga, localizado no bairro do Alto Branco. Ele aproveitou que o baterista tinha dado o cano e assumiu a bateria. O que muita gente não sabe é que, antes de tudo isso, ele foi padeiro e deu seus pulos como goleiro no time juvenil do Treze Futebol Clube.\nJá Luiz Gonzaga, natural de Exu, Pernambuco, nasceu em uma família de lavradores. Desde jovem, o Rei do Baião já demonstrava talento musical, tocando zabumba nas festas locais ao lado de seu pai. Após um período como corneteiro no exército cearense, ele deixou o serviço militar e partiu para o Rio de Janeiro.\nEm pouco tempo, Luiz Gonzaga se tornou Gonzagão, conquistando fama e reconhecimento. O ponto de virada veio com uma apresentação no programa de Ary Barroso, onde ele interpretou o instrumental de “Vira e Mexe”. Foi questão de tempo para ser considerado, no sudeste do Brasil, o maior representante da música nordestina.\nSua ascensão o levou a ser contratado pela Rádio Nacional do Rio de Janeiro, ampliando ainda mais seu alcance e destaque na cena musical brasileira. Suas canções tocavam os problemas e a vida do povo nordestino com pureza e simplicidade, conquistando o coração de milhões de ouvintes.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": false,
+      "hours": [
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59"
+      ]
+    },
+    {
+      "id": -1318353152,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Pioneiros da Borborema",
+      "type": "Monumento",
+      "latitude": -7.22521312534312,
+      "longitude": -35.8773948327621,
+      "address": "R. Paulo de Frontin, 483-499 - Centro, Campina Grande - PB",
+      "entryPrice": 0.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "História e Cultura"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/7815996c-3a7b-4004-aea7-e84319b84d0e.jpg",
+          "credits": "Cacio Murilo/Mtur"
+        },
+        {
+          "url": "/catalog/images/4f4cb13f-25c9-46f5-ae44-f9a5c0b41f81.jpg",
+          "credits": "Cacio Murilo/Mtur"
+        }
+      ],
+      "audio": "/catalog/audio/99009207-68af-4207-8004-35b8274f2ffa.mp3",
+      "transcript": "O Monumento \"Os Pioneiros da Borborema\" em Campina Grande, Paraíba, foi inaugurado em 11 de outubro de 1964, como parte das celebrações do centenário da cidade. Localizado às margens do Açude Velho, o monumento é composto por três estátuas: um índio, uma catadora de algodão e um tropeiro. Cada figura representa aspectos importantes da história e do desenvolvimento de Campina Grande. O índio simboliza a origem primitiva da cidade, a catadora de algodão representa o papel da mulher no desenvolvimento industrial, enquanto o tropeiro personifica o comércio e a resistência do povo. As estátuas foram trazidas do Rio de Janeiro e levaram 10 dias para chegar à cidade. O monumento, posicionado de frente para o nascer do sol, é um ponto turístico importante e um marco para quem chega a Campina Grande, sendo iluminado de maneira especial ao pôr do sol e à noite.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": false,
+      "hours": [
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59"
+      ]
+    },
+    {
+      "id": -686200823,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Parque Evaldo Cruz",
+      "type": "Parque",
+      "latitude": -7.22182709225969,
+      "longitude": -35.8893442075419,
+      "address": "Av. Mal. Floriano Peixoto - Centro, Campina Grande - PB, 58400-170",
+      "entryPrice": 0.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "Arquitetura e Urbanismo",
+        "Lazer"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/0e9f5fef-47e2-4e0e-a935-45f78aa9654e.jpg",
+          "credits": "rainha-da-borborema.blogspot.com"
+        }
+      ],
+      "audio": "/catalog/audio/6ee4b62f-b2da-4565-a87c-c2fcbaca4a84.mp3",
+      "transcript": "O Parque Açude Novo, construído em 1830, foi inicialmente uma reserva de água para a cidade de Campina Grande, Paraíba, durante períodos de seca. Com o tempo, tornou-se um espaço de lazer e convívio social. Sua área de quase 47 mil metros quadrados é composta por árvores, bancos e uma fonte central. O parque é um ponto histórico importante da cidade, testemunhando seu crescimento e desenvolvimento ao longo dos anos. É um lugar onde os moradores podem relaxar, fazer piqueniques e desfrutar da natureza.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": false,
+      "hours": [
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59"
+      ]
+    },
+    {
+      "id": -96382972,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Universidade Federal de Campina Grande",
+      "type": "Universidade",
+      "latitude": -7.21712509137011,
+      "longitude": -35.9097564923006,
+      "address": "R. Aprígio Veloso, 882 - Universitário, Campina Grande - PB, 58429-900",
+      "entryPrice": 0.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "Educação e Aprendizado"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/bc66c5dd-ba49-4842-b932-c39f07bdfa4c.jpg",
+          "credits": "UFCG"
+        }
+      ],
+      "audio": "/catalog/audio/df0d9d49-f3a9-44e6-9620-3b762d5dea5a.mp3",
+      "transcript": "Com 17 instituições de ensino superior e uma proporção de doutores seis vezes maior que a média nacional, Campina Grande ostenta um título que vai além de seu forró contagiante: é um polo de tecnologia e inovação pulsante. Mas como essa história começou?\nNo início dos anos 50, quando o ciclo do algodão já dava sinais de fadiga, um grupo de jovens visionários, liderados por Lynaldo Cavalcanti de Albuquerque, fundou a Escola Politécnica da Paraíba em Campina Grande. Era a semente do que viria a ser a UFCG.\nEm 1967, o Professor Lynaldo, com muita determinação, partiu rumo à capital do estado para convencer o reitor da UFPB a investir em um computador para a Escola Politécnica. A resposta? Um sonoro \"não\", com a alegação de que, se a universidade adquirisse um computador algum dia, ele seria instalado no campus de João Pessoa. Mas Lynaldo não desistiu fácil.\nDe volta à Campina, ele mobilizou a comunidade e organizou uma rifa, com prêmios nada menos que um fusca e um \"boi reprodutor holandês de alto valor\", doado pelo Sr. Esaú Catão. A campanha foi um sucesso estrondoso, e em 1968, o primeiro computador de todo o Norte e Nordeste finalmente chegou à Escola Politécnica, instalado no prédio que hoje abriga a Pró-reitoria de Ensino da UFCG.\nEra o modelo IBM 1130, um gigante de metal que ocupava uma sala inteira. A aquisição do computador marcou o início da era da tecnologia em Campina Grande, impulsionando o desenvolvimento de cursos de graduação e pesquisa na área, e atraindo talentos de todo o país.\nAtualmente, a UFCG possui uma infraestrutura abrangente com vários campi espalhados pela Paraíba, com instalações modernas, incluindo laboratórios de ponta, bibliotecas, auditórios e centros de pesquisa. Reconhecida pela qualidade de seus cursos de graduação e pós-graduação em diversas áreas, como Engenharia, Ciências Exatas, Humanas e Saúde, a instituição se destaca pela produção científica, parcerias público-privadas e programas de extensão que beneficiam a comunidade local e regional. Além disso, a UFCG fomenta o empreendedorismo e a criação de startups, contribuindo significativamente para o avanço do conhecimento e para a solução de problemas socioeconômicos.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": false,
+      "hours": [
+        "",
+        "06:00-22:00",
+        "06:00-22:00",
+        "06:00-22:00",
+        "06:00-22:00",
+        "06:00-22:00",
+        "06:00-18:00"
+      ]
+    },
+    {
+      "id": -2525007098,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Unversidada Estadual da Paraíba",
+      "type": "Universidade",
+      "latitude": -7.20878796630953,
+      "longitude": -35.9173564063346,
+      "address": "R. Baraúnas, 351 - Universitário, Campina Grande - PB, 58429-500",
+      "entryPrice": 0.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "Educação e Aprendizado"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/e6f807d0-5394-460f-8781-cde8e36c3d28.jpg",
+          "credits": "Acervo/Jornal Correio da Paraíba"
+        }
+      ],
+      "audio": "/catalog/audio/9e0ca3a6-56e1-40d3-be86-bbda2148b054.mp3",
+      "transcript": "A Universidade Estadual da Paraíba (UEPB) é uma instituição pública de ensino superior localizada em Campina Grande, Paraíba, com diversos campi espalhados pelo estado. Fundada em 1966 como URNe e estadualizada em 1987, destaca-se por sua contribuição para o desenvolvimento educacional e socioeconômico regional. Possui o Museu de Arte Popular da Paraíba (MAPP), projetado por Oscar Niemeyer. Oferece uma ampla variedade de cursos de graduação, pós-graduação e técnico em diferentes áreas. Cada campus tem foco específico, como Ciências Agrárias e Ambientais, Ciências Biológicas, Exatas e Humanas. Comprometida com pesquisa e extensão, a UEPB promove projetos que beneficiam a comunidade. Suas parcerias fortalecem sua posição como centro acadêmico de excelência na Paraíba.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": false,
+      "hours": [
+        "",
+        "06:00-22:00",
+        "06:00-22:00",
+        "06:00-22:00",
+        "06:00-22:00",
+        "06:00-22:00",
+        "06:00-18:00"
+      ]
+    },
+    {
+      "id": -1202537599,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Rodoviária Velha",
+      "type": "Mercado",
+      "latitude": -7.21707621139451,
+      "longitude": -35.8828544630638,
+      "address": "Praça Lauritzen, 07 - Centro, Campina Grande - PB, 58400-140",
+      "entryPrice": -1.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "História e Cultura"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/e14bb4c7-968c-41b8-b301-4bf2d31fcdc0.jpg",
+          "credits": "www.coletivof8.com"
+        }
+      ],
+      "audio": "/catalog/audio/2eb7b61d-6731-4669-b7c1-aa0e102570b1.mp3",
+      "transcript": "A Rodoviária Velha de Campina Grande, também conhecida como Terminal Rodoviário Argemiro de Figueiredo, é um marco histórico da cidade. Inaugurada em 1953, foi durante décadas o principal ponto de partida e chegada de ônibus intermunicipais e interestaduais na região. Sua arquitetura retrô, com traços característicos da época, é um símbolo da memória coletiva dos campinenses. No entanto, com o passar dos anos e a expansão da cidade, a rodoviária perdeu sua relevância, sendo substituída por um novo terminal. Atualmente, a apesar de a Rodoviária Velha estar desativada e aguardar projetos de revitalização e reutilização de seu espaço, ela segue sendo palco de um grande mercado abrigando vendedores ambulantes, cabelereiros, mercearias e outros empreendimentos.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": true,
+      "hours": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": -1671017393,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Memorial a Bíblia",
+      "type": "Monumento",
+      "latitude": -7.22754054104269,
+      "longitude": -35.8822007542402,
+      "address": "R. Paulo de Frontin, 1-199 - Centro, Campina Grande - PB, 58400-310",
+      "entryPrice": -1.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "Religioso",
+        "História e Cultura"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/074b6d62-7a8c-4856-ac23-966156df657d.jpg",
+          "credits": "Ana Raquel/minicutxi"
+        }
+      ],
+      "audio": "/catalog/audio/02df6fd8-4781-4fbc-833e-f5c394aea750.mp3",
+      "transcript": "O Memorial em Homenagem à Bíblia em Campina Grande, Paraíba, foi inaugurado no final de 2011 como resultado de um voto feito pelo Vice-prefeito José Luis. Ele havia sido portador de um câncer sem cura pela medicina e o memorial é uma expressão de gratidão e fé. Localizado nas margens do Açude Velho, o monumento contém exemplares da Bíblia em vários idiomas, incluindo Grego, Hebraico, Português e Braille. O projeto visa incluir o máximo de impressões da Bíblia em outros idiomas, tornando-se um desafio contínuo para os idealizadores.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": false,
+      "hours": [
+        "08:00-18:00",
+        "08:00-18:00",
+        "08:00-18:00",
+        "08:00-18:00",
+        "08:00-18:00",
+        "08:00-18:00",
+        "08:00-18:00"
+      ]
+    },
+    {
+      "id": -723252500,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Bar do cuscuz",
+      "type": "Restaurante",
+      "latitude": -7.22286484340989,
+      "longitude": -35.8778724478128,
+      "address": "R. Dr. Severino Cruz, 771 - Centro, Campina Grande - PB, 58045-010",
+      "entryPrice": -1.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "Gastronomia",
+        "Entretenimento e Eventos"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/6f4166f9-c772-4dd4-ae2d-cb39278a4b65.jpg",
+          "credits": "Tripadvisor"
+        }
+      ],
+      "audio": "/catalog/audio/94332b4e-75b2-4629-95f4-8c789c7001bf.mp3",
+      "transcript": "O Bar do Cuscuz, fundado por Lia em Campina Grande, Paraíba, é um ponto de referência na tradição culinária nordestina. Inspirado no cuscuz de cabeça amarrada feito pela a avó de Lia (a fundadora), o restaurante oferece uma variedade de pratos típicos da região, com destaque para o cuscuz. Com seu ambiente rústico e acolhedor, o Bar do Cuscuz é conhecido por sua comida saborosa e mantém sua relevância cultural. O sucesso levou à expansão para outras cidades, incluindo João Pessoa e o Grande Recife, com o envolvimento do jogador de futebol Hulk no empreendimento, aumentando sua visibilidade e atratividade para os visitantes em busca das delícias tradicionais do Nordeste.",
+      "language": "pt",
+      "email": "",
+      "telephone": "8.333224232E9",
+      "shouldContact": false,
+      "hours": [
+        "11:00-22:00",
+        "11:00-01:00",
+        "11:00-01:00",
+        "11:00-01:00",
+        "11:00-01:00",
+        "11:00-01:00",
+        "11:00-01:00"
+      ]
+    },
+    {
+      "id": -3304370783,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Parque do Bodocongó",
+      "type": "Parque",
+      "latitude": -7.21191576182375,
+      "longitude": -35.9160971485432,
+      "address": "Av. Juvêncio Arruda, 1232-1310 - Bodocongó, Campina Grande - PB, 58430-800",
+      "entryPrice": -1.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "Lazer"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/41e1c441-8da9-40ab-b735-af7447ce62bb.jpg",
+          "credits": "Cláudio Goes/ Secom"
+        }
+      ],
+      "audio": "/catalog/audio/4bdf76b7-1f65-4fca-a55a-230612e08caa.mp3",
+      "transcript": "O Parque de Bodocongó, inaugurado em 1978 no bairro Bodocongó de Campina Grande, Paraíba, é um marco histórico na comunidade local. Nomeado em homenagem ao próprio bairro, sua origem remete à cultura indígena e à riqueza natural da região. Ao longo dos anos, o parque passou por diversas transformações, tornando-se um espaço multifuncional com quadras esportivas, áreas de lazer e um anfiteatro para eventos culturais. Após um período de dois anos fechado, o parque foi reaberto em agosto de 2022, passando por um processo de revitalização que incluiu melhorias na infraestrutura, paisagismo e segurança. Com pistas de caminhada, ciclovias, playgrounds e uma Unidade de Polícia Solidária para garantir a segurança dos frequentadores, o Parque de Bodocongó continua a ser um ponto de encontro e lazer para a comunidade.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": false,
+      "hours": [
+        "06:00-21:00",
+        "",
+        "06:00-21:00",
+        "06:00-21:00",
+        "06:00-21:00",
+        "06:00-21:00",
+        "06:00-21:00"
+      ]
+    },
+    {
+      "id": -4154329568,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Estádio Amigão",
+      "type": "Estádio",
+      "latitude": -7.25397603219004,
+      "longitude": -35.8808600730755,
+      "address": "R. Vig. Calixto, 3230 - Sandra Cavalcante, Campina Grande - PB, 58410-600",
+      "entryPrice": -1.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "Lazer",
+        "Entretenimento e Eventos"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/cc4363fe-17ad-4609-85cd-0e0e4364c93a.jpg",
+          "credits": "Joao da Paz/PBEsportes"
+        },
+        {
+          "url": "/catalog/images/78a77ac4-a7f4-42f4-94c2-b9b280b558d2.jpg",
+          "credits": "Cisco Nobre/GE"
+        }
+      ],
+      "audio": "/catalog/audio/a553ff5b-963d-4056-a766-1460499fab23.mp3",
+      "transcript": "Erguido em tempo recorde, em apenas 14 meses, o Estádio Governador Ernani Sátyro, mais conhecido como Amigão, é o maior monumento à paixão pelo futebol em Campina Grande.\nMais do que um nome no pórtico do estádio, Ernani Sátyro, foi um advogado, político e escritor paraibano. Conhecido por tratar pessoas próximas pela expressão \"amigo velho”, ele governou a Paraíba entre 1971 e 1975.\nA ideia de construir o Estádio Amigão surgiu na década de 1970, um período marcado pela expansão das infraestruturas esportivas no Nordeste brasileiro. A imprensa paraibana, então, fomentou a necessidade do estado acompanhar os vizinhos, oferecendo modernas praças de esportes para os torcedores.\nEmbora o governo da Paraíba, liderado por Ernani Sátyro, tivesse recursos para construir apenas um estádio em João Pessoa, autoridades políticas, esportivas e a imprensa de Campina Grande, destacando o ex-atleta José Luiz e o prefeito, à época, Evaldo Cruz, fizeram apelos para prestigiar o futebol local. Inicialmente, cogitou-se construir o estádio no Distrito do Cajá, entre João Pessoa e Campina Grande, mas, ficou decidido que tanto João Pessoa quanto Campina Grande teriam seus próprios estádios.\nA construção do estádio começou em janeiro de 1974, em uma área que anteriormente era utilizada por pequenos agricultores. Apesar da resistência inicial dos moradores locais, a obra avançou rapidamente, e no dia 8 de março de 1975, o Amigão foi inaugurado. O primeiro jogo disputado no estádio foi entre o Campinense e o Botafogo do Rio de Janeiro comandado pelo lendário Zagallo, terminando em 0 a 0. \nPoucos dias depois, em 16 de março de 1975, ocorreu o primeiro clássico dos maiorais, onde o Campinense enfrentou o Treze, marcando o início de uma rica tradição esportiva no estádio. Aos 30 minutos do primeiro tempo, Pedrinho Cangula, do Campinense, marcou o primeiro gol no Amigão. A resposta do Treze veio aos 39 minutos do segundo tempo, com Fernando Canguru empatando o jogo em 1 a 1.\nCom mais de 45 anos de história, o Amigão segue imponente, símbolo da garra e do amor do povo campinense pelo futebol. Mais de 19 mil torcedores podem vibrar em suas arquibancadas, testemunhando grandes momentos do futebol paraibano e nacional. O estádio já recebeu jogos históricos incluindo amistosos internacionais, jogos da Copa do Brasil, finais da Copa do Nordeste e o campeonato paraibano.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": true,
+      "hours": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": -1621207783,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "O Meninão",
+      "type": "Ginásio",
+      "latitude": -7.23607415226434,
+      "longitude": -35.913246690619,
+      "address": "R. José Sebastião Silva, s/n - Dinamérica, Campina Grande - PB, 58416-605",
+      "entryPrice": -1.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "Lazer",
+        "Entretenimento e Eventos"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/a1991fec-20bf-4e30-8579-7e68e3a6fe4f.jpg",
+          "credits": "BarroCE/Wikimapia"
+        }
+      ],
+      "audio": "/catalog/audio/c6322654-1f09-4710-8940-b4008aabdd08.mp3",
+      "transcript": "O Ginásio O Meninão, localizado em Campina Grande, Paraíba, desempenhou um papel central na vida esportiva da cidade ao longo de décadas. Como um espaço crucial para eventos esportivos e competições, tornou-se um ponto de referência na região. Sua reforma, iniciada no final de 2017 em parceria com a Secretaria de Esporte, Juventude e Lazer e o Ministério do Esporte, representa um investimento significativo de R$ 650 mil. Embora o prazo para conclusão não esteja definido, o ginásio continua a ser uma opção interessante para os amantes de esportes e aqueles que desejam acompanhar competições na região.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": false,
+      "hours": [
+        "08:00-18:00",
+        "08:00-18:00",
+        "08:00-18:00",
+        "08:00-18:00",
+        "08:00-18:00",
+        "08:00-18:00",
+        "08:00-18:00"
+      ]
+    },
+    {
+      "id": -1095652952,
+      "source": "recovered",
+      "locationNeedsReview": true,
+      "name": "Teatro Paulo Pontes",
+      "type": "Teatro",
+      "latitude": -7.12257025792853,
+      "longitude": -34.8424510106194,
+      "address": "R. Abdias Gomes de Almeida, 800 - Tambauzinho, João Pessoa - PB, 58042-900",
+      "entryPrice": -1.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "História e Cultura",
+        "Arte"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/8439ab58-ff56-4362-971a-03200e0176d7.jpg",
+          "credits": "Max Brito/Funesc"
+        }
+      ],
+      "audio": "/catalog/audio/5d55c9b4-0186-411a-a14e-d452543f8dfa.mp3",
+      "transcript": "O Teatro Paulo Pontes, localizado em João Pessoa, Paraíba, é um espaço cultural fundamental para a região. Fundado há quase quatro décadas em homenagem ao teatrólogo Vicente de Paula Holanda Pontes, o teatro tem uma história rica e diversificada. Após uma grande reforma estrutural em 2013, que durou cerca de dois anos, o teatro recebeu melhorias significativas, incluindo tratamento especial no palco, novas poltronas, renovação das coxias e rotundas, além de equipamentos de som e luz atualizados. A acessibilidade também foi priorizada, com a instalação de locais reservados para cadeirantes e poltronas para necessidades especiais. Com capacidade para 660 lugares, o Teatro Paulo Pontes recebe uma variedade de apresentações, incluindo espetáculos de teatro, música, dança, festivais e eventos corporativos. Vale ressaltar que o teatro oferece uma programação diversificada, com shows seguindo um cronograma específico, proporcionando opções de entretenimento para todos os gostos e interesses.",
+      "language": "pt",
+      "email": "",
+      "telephone": "8.332558707E9",
+      "shouldContact": true,
+      "hours": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": -2598574094,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Açude Bodocongó",
+      "type": "Corpo d'água",
+      "latitude": -7.21397449673302,
+      "longitude": -35.915337110244,
+      "address": "Av. Juvêncio Arruda, 1232-1310 - Bodocongó, Campina Grande - PB, 58430-800",
+      "entryPrice": 0.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "Natureza e Ecoturismo",
+        "Lazer"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/553161ee-3634-4ca1-ad35-0ce550d0abb0.jpg",
+          "credits": "Brunosprak, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1856988"
+        }
+      ],
+      "audio": "/catalog/audio/049a4d09-57b3-4344-9c85-0c25f022d21c.mp3",
+      "transcript": "A melodia de \"Bodocongó\" ecoa na alma de Campina Grande, tecendo um manto de nostalgia e afeto. Mas, será que essa canção, eternizada na voz de Elba Ramalho, guarda segredos que vão além da poesia? Mais do que um reservatório de água, o açude de Bodocongó é um marco na ciência brasileira, palco de descobertas pioneiras que moldaram a piscicultura e a limnologia no país.\nA história do Açude de Bodocongó como berço da ciência brasileira teve início em 1934, quando a Comissão Técnica de Piscicultura do Nordeste foi instalada em Campina Grande. Criada durante a Era Vargas pelo ministro paraibano José Américo de Almeida e sob a liderança do renomado cientista gaúcho Rodolpho Von Ihering, a comissão tinha como objetivo combater a fome na região através da produção em massa de peixes.\nFoi nas águas do Bodocongó que Ihering realizou sua obra-prima: a técnica da hipofisação. Através de injeções de extrato da glândula pituitária, ele conseguiu induzir a reprodução artificial em aquário de curimatãs, um peixe nativo de grande importância alimentar. Essa descoberta revolucionária marcou um antes e um depois na piscicultura brasileira, abrindo caminho para a produção em larga escala de diversas espécies.\nSimultaneamente à pesquisa pioneira de Ihering, o limnólogo norte-americano Stillman Wright também realizava estudos inovadores no Bodocongó. Mergulhando nas profundezas do açude, ele lançou as bases para a limnologia brasileira, a ciência que estuda os ecossistemas de água doce.\nEmbora a Comissão Técnica de Piscicultura do Nordeste tenha sido transferida para Fortaleza em 1935 e desativada em 1945, o legado do Bodocongó para a ciência brasileira permanece vivo. As descobertas realizadas em suas águas impulsionaram o desenvolvimento da piscicultura e da limnologia no país, contribuindo para a segurança alimentar.\n“Mas e a música ‘Bodocongó’?” Em 1950, antes mesmo de Elba Ramalho nascer, esta canção já navegava pelas ondas do sucesso. Composta pelo poeta Humberto Teixeira, o mesmo gênio por trás de \"Asa Branca\", a música ganhou vida na voz da cantora carioca Helena de Lima. Em 1966, foi a vez de Jackson do Pandeiro eternizar a melodia, consagrando-a como um clássico da música brasileira. A canção se tornou um símbolo da saudade da terra natal.\nTambém entre as décadas de 50 e 60, o Clube Aquático Campinense funcionou às margens do Bodocongó, servindo como ponto de encontro da elite da cidade. Lá, os membros do clube desfrutavam de passeios de lancha, praticavam esqui aquático e ostentavam seu status social. Naquele tempo, o açude era a \"praia\" particular da cidade, um refúgio de lazer e ostentação.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": false,
+      "hours": [
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59"
+      ]
+    },
+    {
+      "id": -2308541400,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Igreja do Rosario",
+      "type": "Igreja",
+      "latitude": -7.22126992398527,
+      "longitude": -35.8952718327087,
+      "address": "R. Nilo Peçanha - Prata, Campina Grande - PB, 58400-515",
+      "entryPrice": 0.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "Religioso"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/d8baf954-aea5-486b-8f57-45996fa68a6f.jpg",
+          "credits": "Acervo Paróquia do Rosário - Pascom"
+        }
+      ],
+      "audio": "/catalog/audio/bc609984-d197-4dd7-acbe-da71fd28fb9b.mp3",
+      "transcript": "A história da Igreja do Rosário se inicia em 1793, quando a Irmandade do Rosário se estabelece em Campina Grande. Movidos por fé e devoção, os membros da irmandade ergueram seu primeiro templo nas imediações do Cine Capitólio. Por mais de um século, a igreja foi um centro religioso e cultural para a comunidade.\nNo entanto, em 1940, a reforma urbanística liderada pelo então prefeito Vergniaud Wanderley decretou a demolição da igreja para a abertura da Avenida Floriano Peixoto. Um novo terreno foi doado pelo comerciante Raimundo Viana, um benfeitor local que também contribuiu para a construção do SENAI, do Colégio Estadual da Prata e da Feira da Prata.\nEm 1952, a nova Igreja do Rosário foi erguida no bairro da Prata, mas em 1956, um incêndio criminoso devastou seu interior. O incendiário foi preso sob acusação de furto, mas seu nome não foi registrado, e muitos acreditavam que ele era um vândalo, não um ladrão. A comunidade, porém, não se rendeu. Com união e força de vontade, famílias católicas doaram recursos e tempo, e em apenas três anos, a Igreja do Rosário ressurgiu das cinzas. Um relógio para a torre foi doado pelos empresários Rodão Mangueira e José Leme Medeiros Camboim, enquanto os belos vitrais, que hoje adornam a igreja, foram doações de diversas famílias católicas, cujos nomes estão gravados nas peças. Um verdadeiro museu de arte sacra e fé!",
+      "language": "pt",
+      "email": "",
+      "telephone": "8.333213445E9",
+      "shouldContact": false,
+      "hours": [
+        "",
+        "08:00-12:00,14:00-18:00",
+        "08:00-12:00,14:00-18:01",
+        "08:00-12:00,14:00-18:02",
+        "08:00-12:00,14:00-18:03",
+        "08:00-12:00,14:00-18:04",
+        ""
+      ]
+    },
+    {
+      "id": -2972762986,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Igreja Congregacional",
+      "type": "Igreja",
+      "latitude": -7.22138953761462,
+      "longitude": -35.8867718011765,
+      "address": "R. Treze de Maio, 250 - Centro, Campina Grande - PB, 58400-290",
+      "entryPrice": 0.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "Religioso"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/bff877b9-7a49-48c0-9c6a-3ff36116eb46.jpg",
+          "credits": "Bruno Coitinho Araújo - Wikimidia Commons"
+        }
+      ],
+      "audio": "/catalog/audio/f34646a4-2615-426b-846f-e44c17d6495a.mp3",
+      "transcript": "A Igreja Congregacional, fundada em 15 de novembro de 1920, é a igreja evangélica mais antiga de Campina Grande. A sua origem remonta às primeiras reuniões realizadas na residência do casal Olinto e Rita Cordeiro.\nUma das histórias mais fascinantes associadas à Igreja Congregacional envolve Antônio Silvino, um dos cangaceiros mais temidos do Nordeste brasileiro. Antônio Silvino, cujo verdadeiro nome era Manoel Batista de Morais, entrou para o cangaço para vingar a morte de seu pai e, durante 20 anos, aterrorizou o interior da Paraíba e de Pernambuco. Em 1914, após um confronto com a polícia pernambucana na cidade de Itacoaritinga, ele foi baleado e capturado. Condenado a 239 anos de prisão, cumpriu apenas 23 anos devido a um indulto concedido por Getúlio Vargas.\nLiberto em 1937, Antônio Silvino se mudou para Campina Grande, onde passou a morar com sua prima Teodolina, em uma casa em frente à Praça Félix Araújo. Durante seus últimos anos de vida, ele frequentou regularmente esta igreja, onde se converteu ao evangelho, trocando seu rifle de ouro pela Bíblia Sagrada. Morou aqui até 1944, quando faleceu. A transformação de um temido cangaceiro em um devoto cristão é uma das muitas histórias que enriquecem o patrimônio cultural da igreja.",
+      "language": "pt",
+      "email": "",
+      "telephone": "8.333210682E9",
+      "shouldContact": false,
+      "hours": [
+        "",
+        "19:30-21:00",
+        "15:00-17:00",
+        "19:30-21:00",
+        "",
+        "19:30-21:00",
+        "09:00-11:30,18:00-20:30"
+      ]
+    },
+    {
+      "id": -3487337193,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Primeira Igreja Batista",
+      "type": "Igreja",
+      "latitude": -7.22021777488567,
+      "longitude": -35.8832831416955,
+      "address": "Praça Clementino Procópio, 20 292 - Centro, Campina Grande - PB",
+      "entryPrice": 0.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "Religioso"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/90273160-61b0-46a6-9d41-f89f5b944ec7.jpg",
+          "credits": "Lenildo Ferreira"
+        }
+      ],
+      "audio": "/catalog/audio/792dc051-fca8-466e-b9c8-1399720084b2.mp3",
+      "transcript": "Fundada em 5 de março de 1922, a Primeira Igreja Batista de Campina Grande é a segunda igreja evangélica mais antiga da cidade. Esta igreja tem uma conexão especial com o Açude Velho, onde os oito primeiros convertidos foram batizados. Durante a construção do seu belíssimo templo, os membros da congregação participaram de mutirões para carregar água do açude, demonstrando um forte espírito comunitário e de cooperação. Em 2022 a igreja marcou um século de dedicação e serviço à comunidade.",
+      "language": "pt",
+      "email": "",
+      "telephone": "8.333214641E9",
+      "shouldContact": true,
+      "hours": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": -169989018,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Assembleia de Deus",
+      "type": "Igreja",
+      "latitude": -7.21801596803149,
+      "longitude": -35.8935951290044,
+      "address": "R. Antenor Navarro, 693 - Prata, Campina Grande - PB, 58400-520",
+      "entryPrice": 0.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "Religioso"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/423aa27c-3e88-4232-a5f8-552b5d18c67d.jpg",
+          "credits": "Casa Publicadora das Assembleias de Deus"
+        }
+      ],
+      "audio": "/catalog/audio/acd3e375-ee93-4754-bf47-30645c2575cf.mp3",
+      "transcript": "A Assembleia de Deus, que recentemente completou 100 anos, é a terceira igreja evangélica mais antiga de Campina Grande. Seu primeiro templo foi situado na Rua das Areias, atual Rua João Pessoa, no prédio nº 655, onde funcionou até 1944. O pioneiro Manuel Francisco Dubu, natural de Campina Grande, é reconhecido como o primeiro homem a ser batizado com o Espírito Santo no Brasil, destacando a importância histórica da Assembleia de Deus na expansão do movimento pentecostal no país.",
+      "language": "pt",
+      "email": "",
+      "telephone": "8.333214803E9",
+      "shouldContact": false,
+      "hours": [
+        "19:00-21:00",
+        "",
+        "19:00-21:00",
+        "14:00-17:00,19:00-21:00",
+        "19:00-21:00",
+        "",
+        "09:00-11:30,18:00-20:00"
+      ]
+    },
+    {
+      "id": -2120861928,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Monumento João Rique",
+      "type": "Monumento",
+      "latitude": -7.21741045841354,
+      "longitude": -35.8858805232501,
+      "address": "R. Pres. João Pessoa, 2-8 - Centro, Campina Grande - PB, 58400-002",
+      "entryPrice": 0.0,
+      "accessible": false,
+      "rating": 0,
+      "tags": [
+        "História e Cultura",
+        "Arquitetura e Urbanismo"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/a37b1518-83ed-44e1-8816-ea015addd6c8.jpg",
+          "credits": "Gustavo Xavier/G1/Arquivo"
+        }
+      ],
+      "audio": "/catalog/audio/85c5555f-81fa-4cd9-8218-d93726c32dd3.mp3",
+      "transcript": "A Praça João Rique, situada na confluência das ruas João Pessoa, João Suassuna, Sete de Setembro e Marquês do Herval, é um local emblemático de Campina Grande, cheio de história e mudanças ao longo do tempo. Originalmente conhecida como Praça do Algodão e, posteriormente, Praça João Pessoa e Praça do Relógio, a praça foi renomeada várias vezes. Na década de 1930, uma imponente coluna de 10 metros, conhecida como Coluna da Hora, foi erguida com um relógio de quatro faces no topo, fazendo desta praça um ponto central para os cidadãos de Campina Grande.\nEm 1945, a Coluna da Hora foi demolida para dar lugar ao Posto Central, um prédio triangular que abrigava um posto de gasolina, a primeira rodoviária da cidade e uma lanchonete que operava 24 horas, servindo como ponto de encontro para os boêmios. O famoso relógio da praça foi resgatado de uma sucata da prefeitura por um frade e, graças à doação de Elpídio de Almeida, agora se encontra na Torre do Convento São Francisco, onde continua funcionando pontualmente.\nA atual Praça João Rique está intrinsecamente ligada à história do Banco Industrial de Campina Grande (BICG), fundado pelo empreendedor João Rique Ferreira em 1927, durante o auge do ciclo do algodão. O banco, localizado no térreo do Edifício Rique, rapidamente se expandiu e passou a operar em treze estados, tornando-se um dos maiores bancos privados do país, perdendo em crescimento apenas para o Banco Bradesco. Em uma jogada de marketing ousada, Pelé foi contratado como diretor de relações públicas do banco. Em 1972, o BICG foi incorporado pelo Banco Mercantil de Minas Gerais por 126 milhões de Cruzeiros, mas seu legado continua vivo, sendo o primeiro banco da América Latina a oferecer o serviço de caixa eletrônico.\nNewton Rique, filho de João Rique e ex-prefeito de Campina Grande, explicou a venda do banco com as seguintes palavras: \"Não fosse a mudança brusca nas regras do jogo, na formação dos grandes conglomerados, temos certeza de que teríamos resistido. Faltou-nos um pouco mais de tempo.”\nA praça guarda ainda algumas curiosidades: a estátua do presidente João Pessoa, que um dia esteve aqui, foi transferida para a Praça Coronel Antônio Pessoa. Já a estátua de João Rique, que antes olhava para a Rua João Pessoa, um dia deu a meia volta e passou a contemplar o edifício do seu antigo banco, mantendo viva a conexão entre o local e seu ilustre fundador.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": false,
+      "hours": [
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59"
+      ]
+    },
+    {
+      "id": -3693512986,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Praça Clementino Procópio",
+      "type": "Praça",
+      "latitude": -7.22001569097519,
+      "longitude": -35.8839381133607,
+      "address": "Av. Mal. Floriano Peixoto - Jardim Tavares, Campina Grande - PB, 58402-000",
+      "entryPrice": 0.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "História e Cultura",
+        "Arquitetura e Urbanismo"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/f58c51ce-b323-407a-af3f-3a77b97c9373.jpg",
+          "credits": "PBtur"
+        }
+      ],
+      "audio": "/catalog/audio/2dab5f4c-274a-406d-883e-08867951f079.mp3",
+      "transcript": "Inaugurada em 1936, a Praça Clementino Procópio rapidamente se tornou um ponto de encontro para os campinenses. No coração de Campina Grande, sob a sombra das árvores, famílias faziam piqueniques, crianças brincavam livremente e casais desfrutavam de momentos românticos. A praça é palco de eventos culturais, como feiras e shows.\nNa inauguração, o poeta Ronaldo Cunha Lima proferiu os versos: “Ajude a manter bonita a praça que é sua agora, pois aqui você medita, passeia, sonha ou namora”, que se encontram gravados em uma placa. Infelizmente, a praça está atualmente abandonada pelo poder público.\nA arquitetura da praça, com seus calçadões, bancos de ferro fundido e um coreto central, remete à sua época de construção. A estátua aqui presente é uma justa homenagem ao senador Argemiro de Figueiredo. Mas quem leva o nome da praça é Clementino Gomes Procópio, um dos maiores educadores da história de Campina Grande. Professor dedicado que foi aprovado em primeiro lugar em um concurso público em 1888 para lecionar no ensino primário. Também fundou o Colégio São José, uma escola particular destacada pela qualidade do ensino e acessibilidade, mantendo o mesmo valor da mensalidade por 48 anos.\nEm 1889, após a Proclamação da República, Clementino foi vítima de uma transferência arbitrária para São João do Rio do Peixe, imposta pelo então governador Álvaro Machado. Em um ato ousado, Clementino \"transferiu\" Machado para Sergipe, através de um decreto fictício. Revoltado, Machado cortou os salários do professor. Mais tarde, ao participar de uma solenidade em Campina Grande, Machado ouviu um brilhante discurso de Clementino e, arrependido, restituiu-lhe a cadeira e os salários.\nAlém de seu trabalho na educação, Clementino era extremamente caridoso e pacato. Acolhia órfãos e pobres em sua casa, criando, educando e casando várias jovens órfãs como se fossem suas filhas.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": false,
+      "hours": [
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59"
+      ]
+    },
+    {
+      "id": -291695612,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Memorial Severino Cabral",
+      "type": "Museu",
+      "latitude": -7.21841271141745,
+      "longitude": -35.8881562590098,
+      "address": "Av. Pres. Getúlio Vargas, 344 - Centro, Campina Grande - PB, 58400-052",
+      "entryPrice": -1.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "História e Cultura"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/206eff97-b2cd-4228-a399-fcf0e3b2912e.jpg",
+          "credits": "PBtur"
+        }
+      ],
+      "audio": "/catalog/audio/07b61dae-1d48-431e-b237-d366c72620b8.mp3",
+      "transcript": "Situada na Avenida Getúlio Vargas, 344, a casa do prefeito Severino Cabral, hoje Memorial Severino Cabral, é um dos pontos turísticos mais emblemáticos da cidade. Este local não só abrigou importantes figuras históricas, como também foi palco de decisões significativas para Campina Grande.\nSeverino Cabral, conhecido carinhosamente como \"Seu Cabral\", governou Campina Grande de 1960 a 1963 e deixou um legado profundo na história da cidade. A casa, que reflete a arquitetura da época, foi um verdadeiro centro de hospitalidade e generosidade. Seu Cabral era famoso por sua disposição em ajudar os necessitados, mantendo um fichário detalhado de todos os pedidos de ajuda que recebia e atendia. Os registros, cuidadosamente arquivados, revelam uma época em que a casa estava sempre de portas abertas para os pobres da cidade.\nA Mesa da Memória, amplamente decorada com fotografias e documentos importantes, é um destaque do memorial. Esta mesa não só guarda a memória de Campina Grande, mas também testemunhou momentos históricos, tendo recebido três presidentes da República: Juscelino Kubitschek, Jânio Quadros e Getúlio Vargas.\nAlém de seu papel como prefeito, Severino Cabral era conhecido por seus métodos pragmáticos e pelo ditado popular que ele parecia seguir à risca: “É dando que se recebe”. A casa funcionava como um verdadeiro centro comunitário, onde seus seguidores, munidos de carteirinhas, registravam favores recebidos, criando uma rede de apoio que perdurava principalmente em épocas de campanha política.\nA casa está aberta para visitação de segunda a sexta-feira pela manhã, oferecendo aos visitantes uma verdadeira viagem ao passado, onde podem explorar a rica história e as curiosidades da vida de Severino Cabral e de Campina Grande.",
+      "language": "pt",
+      "email": "",
+      "telephone": "8.330655803E9",
+      "shouldContact": false,
+      "hours": [
+        "08:00-12:00,14:00-18:00",
+        "08:00-12:00,14:00-18:00",
+        "08:00-12:00,14:00-18:00",
+        "08:00-12:00,14:00-18:00",
+        "08:00-12:00,14:00-18:00",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": -988807761,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Rua Maciel Pinheiro",
+      "type": "Rua",
+      "latitude": -7.21767584046927,
+      "longitude": -35.883939482939,
+      "address": "Centro, Campina Grande - PB, 58400-100",
+      "entryPrice": 0.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "História e Cultura",
+        "Arquitetura e Urbanismo"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/c3ca2f54-fee2-4c6c-8010-922a1727156d.jpg",
+          "credits": "Jameson Ramos Campos - Diario de Bicicleta"
+        }
+      ],
+      "audio": "/catalog/audio/afeec772-9ef0-4706-8e97-89faf46ea001.mp3",
+      "transcript": "A Rua Maciel Pinheiro foi a primeira rua a ser asfaltada em Campina Grande. Isso aconteceu em 1970, mas “Maciel Pinheiro” nem sempre foi o nome dessa rua. Observando a placa do logradouro, é possível verificar que a rua já foi a Antiga Rua Grande, Rua da Feira, Rua das Gameleiras, Rua da Independência, Rua Uruguaiana e Rua Seridó. Na verdade, Maciel Pinheiro nunca teve ligação com Campina Grande, ele era um herói da Guerra do Paraguai e alguns historiadores até defendem que a rua deveria na verdade se chamar “Alexandrino Cavalcante”, por conta da importância dele para a consolidação do comércio aqui nesta rua.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": false,
+      "hours": [
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59"
+      ]
+    },
+    {
+      "id": -2923850890,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Edifício do Livro",
+      "type": "Prédio",
+      "latitude": -7.2173842887924,
+      "longitude": -35.884401053382,
+      "address": "R. Maciel Pinheiro, 293 - Centro, Campina Grande - PB, 58400-100",
+      "entryPrice": -1.0,
+      "accessible": false,
+      "rating": 0,
+      "tags": [
+        "História e Cultura",
+        "Arte",
+        "Lazer"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/53107cd6-2df8-4d77-851b-c2d0591e0644.jpg",
+          "credits": "Jameson Ramos Campos - Diario de Bicicleta"
+        }
+      ],
+      "audio": "/catalog/audio/75dc12a6-1db8-4015-9d44-98f213e62ee3.mp3",
+      "transcript": "O antigo Edifício do Livro, hoje transformado em uma loja de roupas, abrigava anteriormente a Livraria Pedrosa, uma das mais importantes do Nordeste, fundada por José Cavalcante Pedrosa em 16 de março de 1946.\nA Livraria Pedrosa foi muito mais que um simples ponto comercial; foi um centro cultural e intelectual. Inaugurada em 8 de maio de 1953, a livraria rapidamente se tornou um ponto de convergência para intelectuais, escritores e grandes mandatários do Nordeste. Figuras ilustres como Jorge Amado e Gilberto Freyre lançaram livros neste espaço. A livraria também tinha uma editora própria e um programa diário de rádio, \"Faça do Livro o Seu Melhor Amigo,\" transmitido pela Rádio Borborema, apresentado pelos radialistas Gil Gonçalves e Hilton Motta. Além disso, a livraria oferecia um serviço de delivery de livros, uma inovação para a época.\nJosé Cavalcante Pedrosa, pernambucano de Timbaúba, era um visionário. Antes de fundar a Livraria Pedrosa, trabalhou na Livraria Moderna, de seu tio Yoyô Cavalcanti. Ele foi fundamental na promoção da leitura em Campina Grande, incentivando os campinenses a fazerem do livro o seu melhor amigo.\nA Livraria Pedrosa não só vendeu livros, mas também ajudou a gestar a ESCOLA POLITÉCNICA no interior do Edifício do Livro, contribuindo para a complementação do acervo de livros da biblioteca exigidos pelo MEC. O Edifício do Livro, com sua arquitetura marcante, tornou-se um marco na história de Campina Grande.\nInfelizmente, a Livraria Pedrosa fechou suas portas em 2001, mas sua história continua viva na memória da cidade. O edifício que uma vez foi um vibrante centro cultural agora abriga uma loja de roupas, mas a importância cultural e histórica do local permanece.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": true,
+      "hours": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": -4292753103,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Edifício do Abdallah - Rádio Borborema",
+      "type": "Prédio",
+      "latitude": -7.21650312507671,
+      "longitude": -35.8868791091807,
+      "address": "Centro, Campina Grande - PB, 58400-048",
+      "entryPrice": -1.0,
+      "accessible": false,
+      "rating": 0,
+      "tags": [
+        "História e Cultura",
+        "Arte",
+        "Lazer"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/03c552b0-ea00-4036-8188-9352be01d84a.jpg",
+          "credits": "Adriano Araujo - cgretalhos"
+        }
+      ],
+      "audio": "/catalog/audio/dab7c861-b613-42e7-9206-77ff00265b24.mp3",
+      "transcript": "Você sabia que Campina Grande já teve seu próprio super-herói? Nos anos 60, a cidade viu surgir Flama, um personagem que não deixava nada a desejar aos famosos super-heróis americanos. Estamos na época em que o rádio era o principal entretenimento de massa, e foi na Rádio Borborema, situada no prédio São Luís, que Flama nasceu. Criado pelo genial Deodato Borges, radialista, jornalista e quadrinista, Flama foi o primeiro super-herói do Norte e Nordeste a ganhar uma revista em quadrinhos.\nDeodato Borges colocou Campina Grande no mapa das histórias em quadrinhos nacionais. Flama foi um herói que, apesar de não ter superpoderes, ajudava a polícia a resolver casos misteriosos e protegia os indefesos. O sucesso foi estrondoso entre a garotada que acompanhava \"A Hora do Flama\" na Rádio Borborema e \"As Aventuras do Flama\" no Diário da Borborema, lançado em 1963.\nMike Deodato Jr., filho de Deodato Borges, descreve a importância do pai de forma emblemática: “Se meu pai tivesse nascido nos Estados Unidos e publicado As Aventuras do Flama durante o boom dos quadrinhos na década de 50 e 60, certamente estaríamos falando de uma referência internacionalmente reconhecida” (Jornal da Paraíba).\nO legado de Deodato Borges permanece vivo através do talento de seu filho, Mike Deodato Jr., que nasceu no edifício Abdallah, localizado na esquina da Rua João Suassuna com a Rua Padre Ibiapina, no Centro de Campina Grande. Mike ganhou fama mundial desenhando para a Marvel e DC Comics, ilustrando personagens icônicos como Homem-Aranha, Mulher-Maravilha e Batman.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": true,
+      "hours": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": -1647973514,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Sobrado dos Lauritzens",
+      "type": "Prédio",
+      "latitude": -7.2172671995488,
+      "longitude": -35.8843201002477,
+      "address": "R. Maciel Pinheiro, 276-288 - Centro, Campina Grande - PB, 58400-100",
+      "entryPrice": -1.0,
+      "accessible": false,
+      "rating": 0,
+      "tags": [
+        "História e Cultura"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/f39cdb20-6861-4886-8632-56f0cfce6d2e.jpg",
+          "credits": "Jameson Ramos Campos - Diario de Bicicleta"
+        }
+      ],
+      "audio": "/catalog/audio/380b6c95-347b-4ad0-9b40-0c28ed54e3b5.mp3",
+      "transcript": "Há 100 anos, neste palacete localizado na Rua Maciel Pinheiro, faleceu Cristiano Lauritzen, um dinamarquês que adotou Campina Grande como sua pátria e transformou a cidade com suas realizações. Este lugar, conhecido como Sobrado dos Lauritzens, testemunhou momentos cruciais da história local e está sendo restaurado para abrigar um restaurante, preservando sua rica herança histórica.\nCristiano Lauritzen governou Campina Grande por 21 anos, dos quais 19 anos foram ininterruptos. Durante sua administração, ele trouxe o trem para a cidade em 1907, impulsionando o desenvolvimento econômico. Foi responsável pela construção do Açude de Bodocongó, garantindo a segurança hídrica, e pela instalação da energia elétrica, iluminando ruas e casas.\nLauritzen também foi pioneiro na educação ao fundar a primeira escola pública da cidade, o \"Grêmio Campina-grandense de Instrução\", que funcionava como escola, teatro e cinema. Ele financiou a obra com seu próprio salário, demonstrando seu compromisso com a educação e a cultura local.\nCristiano Lauritzen enfrentou muitos desafios durante sua administração. Além de adversários políticos, lidou com o cangaço de Antônio Silvino e enfrentou o surto de Peste Bubônica. Foi injustamente preso durante a Revolta do Rasga-Vales, mas absolvido por unanimidade em um júri popular, refletindo o reconhecimento da população por seus feitos.\nLauritzen era conhecido por seu senso de justiça. Ele garantiu a realização do primeiro culto evangélico na cidade, mesmo diante de ameaças de interrupção, convocando a polícia para assegurar a liberdade religiosa. Além disso, foi responsável pela compra do relógio da Catedral de Campina Grande, importado da Europa.\nO Sobrado dos Lauritzens, onde Cristiano morava e administrava sua \"Casa Inglesa\", está localizado na Rua Maciel Pinheiro. Este palacete, um dos marcos históricos da cidade, é um testemunho das decisões mais importantes tomadas para o desenvolvimento de Campina Grande.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": true,
+      "hours": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": -1033055445,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Colégio Alfredo Dantas",
+      "type": "Escola",
+      "latitude": -7.21842375254009,
+      "longitude": -35.8852163016498,
+      "address": "Rua Marquês do Herval, 39 - Centro, Campina Grande - PB, 58400-087",
+      "entryPrice": -1.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "História e Cultura"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/ae99ecf4-413f-44bd-9a15-2a8bbaaa899f.jpg",
+          "credits": "alfredodantas.com.br"
+        }
+      ],
+      "audio": "/catalog/audio/01487069-543d-47b0-b3d5-4c56a29863f6.mp3",
+      "transcript": "No final do Império e início da República, Cristiano Lauritzen, juntamente com outros intendentes, decidiu construir a primeira escola secundária de Campina Grande no local onde hoje funciona o Colégio Alfredo Dantas. Este marco educacional foi financiado com os próprios salários desses visionários administradores.\nAlém de servir como escola, o local também abrigou o primeiro teatro e cinema de Campina Grande. A escola era chamada de \"Grêmio de Instrução Campina-grandense\", um nome que deve alegrar os trezeanos, o mesmo gentílico que eles preferem se identificar.",
+      "language": "pt",
+      "email": "",
+      "telephone": "8.3331573E9",
+      "shouldContact": false,
+      "hours": [
+        "07:00-18:00",
+        "07:00-18:00",
+        "07:00-18:00",
+        "07:00-18:00",
+        "07:00-18:00",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": -3227814881,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Rua Marquês do Herval",
+      "type": "Rua",
+      "latitude": -7.21862402144779,
+      "longitude": -35.8849538002666,
+      "address": "Centro, Campina Grande - PB, 58400-087",
+      "entryPrice": 0.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "História e Cultura",
+        "Arquitetura e Urbanismo"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/c9e0f142-0dde-45a4-a06d-32ee2f4358d3.jpg",
+          "credits": "Bruno Coitinho Araújo - Wikimidia Commons"
+        }
+      ],
+      "audio": "/catalog/audio/bafa7284-7efb-404f-a32e-70f8676fe071.mp3",
+      "transcript": "Caminhar pela Rua Marquês do Herval é como embarcar numa viagem aos tempos áureos de Campina Grande, onde a memória e a nostalgia se encontram a cada esquina. Esta rua é um marco na história da cidade, imortalizada na canção \"Campina de Outrora\" de João Gonçalves. Seus versos nos convidam a recordar e explorar os famosos bares que foram ponto de encontro e inspiração para muitos.\nOnde hoje funciona a farmácia Pague Menos, ficava o Bar Ponto Certo. Este estabelecimento, comandado pelo destemido Joaquim, um valentão que não dava sopa para a malandragem. Não muito longe dali, estava o Ponto Chic, famoso pela deliciosa macarronada do Joca, um prato que atraía frequentadores de toda a cidade.\nSeguindo pela rua, encontrava-se o Bar Macaíba, famoso pelos tira-gostos preparados pela cozinheira Júlia. O local também era conhecido pelas partidas de bilhar, onde Alonso Sapateiro encantava com suas tacadas precisas. Este bar, tão enraizado na cultura local, até inspirou um frevo, \"Bate-bate Macaíba\", trazendo ritmo e melodia à memória dos campinenses.\nA Rua Marquês do Herval é mais do que um simples endereço; é um retrato vivo da \"Campina Grande de outrora\", onde bares como Ponto Certo, Ponto Chic e Macaíba marcaram a história e deixaram uma herança de histórias e personagens inesquecíveis.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": false,
+      "hours": [
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59"
+      ]
+    },
+    {
+      "id": -3342499369,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Largo das Boninas",
+      "type": "Marco histórico",
+      "latitude": -7.21853103047504,
+      "longitude": -35.8859468177911,
+      "address": "R. Félix Araújo - Centro, Campina Grande - PB, 58400-078",
+      "entryPrice": 0.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "História e Cultura",
+        "Entretenimento e Eventos"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/9cc0bd21-73f5-476f-b6d2-3304cc15e34c.jpg",
+          "credits": "Google Street View"
+        }
+      ],
+      "audio": "/catalog/audio/e4ebf11b-9ec5-4da1-99d5-ceb13d6e6e2b.mp3",
+      "transcript": "Esta área histórica central, com suas edificações em estilo Art Déco, Art Noveau e Neoclássico, foi um marco pioneiro da industrialização da cidade, refletindo a riqueza e o dinamismo econômico daqueles tempos. No entanto, por trás da arquitetura imponente, escondem-se histórias pitorescas e curiosas que marcaram a vida social da época.\nA Rua Coronel Demóstenes Barbosa, localizada no Largo das Boninas, era conhecida por abrigar diversos prostíbulos durante o período áureo do ciclo do algodão, nas décadas de 1930 e 40. Um dos estabelecimentos mais notórios era a Unidade Moreninha. Curiosamente, o nome do prédio foi uma homenagem feita pelo comerciante e construtor Luís Soares à sua irmã, carinhosamente apelidada de “Moreninha”, que faleceu jovem. Luís Soares jamais imaginaria que, futuramente, o prédio se tornaria um famoso cabaré, ganhando um significado bem diferente, mas igualmente marcante na memória popular.\nNaquela época, era desaconselhável para moças e mulheres casadas caminhar pela calçada da Demóstenes Barbosa ao final da tarde. Os prostíbulos geralmente tinham bares ou restaurantes no piso térreo, anunciando um “Ambiente Familiar”, mas, após as 19 horas, o primeiro andar revelava um ambiente bem menos familiar. A fama de quem olhasse para o primeiro andar poderia ser facilmente comprometida, pois era onde “morava o pecado”.\nUm detalhe interessante é o Bar da Paz, localizado em frente à Unidade Moreninha. Apesar do nome pacífico, o bar era conhecido por ser o cenário de brigas frequentes, tornando-se um verdadeiro contrassenso em meio ao burburinho noturno de Campina Grande.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": false,
+      "hours": [
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59"
+      ]
+    },
+    {
+      "id": -622797311,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Capela do Avião",
+      "type": "Monumento",
+      "latitude": -7.21327797408676,
+      "longitude": -35.930616994306,
+      "address": "Serrotão, Campina Grande - PB, 58437-075",
+      "entryPrice": 0.0,
+      "accessible": false,
+      "rating": 0,
+      "tags": [
+        "História e Cultura"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/f32515b1-9500-4ca8-8cf9-1f4a21337d03.jpg",
+          "credits": "Bruna Couto"
+        }
+      ],
+      "audio": "/catalog/audio/e7d63dd0-0bdc-46c4-8daa-b26e7c1a628d.mp3",
+      "transcript": "No alto do bairro Serrotão, em Campina Grande, ergue-se uma pequena capela, silenciosa e solitária, guardiã de uma história trágica e de grande significado para a cidade. Quem passa por esta rua deserta talvez não saiba que, neste local, ocorreu o pior acidente aéreo da história da Paraíba.\nNo dia 5 de setembro de 1958, um avião da empresa Lóide Aéreo Nacional, que partira de Recife com destino a Fortaleza, fazia uma escala em Campina Grande quando encontrou seu destino fatídico. Ao se aproximar da cidade, a asa da aeronave colidiu com uma árvore, resultando em um terrível acidente. Dos 38 passageiros a bordo, 13 perderam a vida. Entre os sobreviventes estava Renato Aragão, que na época tinha apenas 23 anos e era um jovem estudante de Direito. Anos depois, ele se tornaria conhecido em todo o Brasil como o icônico Didi Mocó dos Trapalhões.\nO desastre não só chocou a cidade, mas também marcou profundamente sua história. O empresário Otto Muniz, outro dos 25 sobreviventes, relembra o impacto do acidente e os primeiros momentos de confusão e desespero. Infelizmente, as primeiras pessoas a chegarem ao local não foram movidas pela solidariedade, mas pela ganância, saqueando os pertences dos passageiros. No entanto, o caminho improvisado aberto pelos saqueadores acabou facilitando a chegada mais rápida dos bombeiros, salvando outras vidas.\nDevido à tragédia, o tradicional desfile de 7 de setembro daquele ano foi cancelado em sinal de luto. O evento foi postergado para o dia 14 de setembro, uma decisão que refletiu o pesar coletivo de uma cidade em choque.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": false,
+      "hours": [
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        ""
+      ]
+    },
+    {
+      "id": -1084962964,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Estádio Presidente Vargas",
+      "type": "Estádio",
+      "latitude": -7.22698736371244,
+      "longitude": -35.8945120800616,
+      "address": "R. Zacarias de Souza do O - São José, Campina Grande - PB, 58400-426",
+      "entryPrice": -1.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "Lazer",
+        "Entretenimento e Eventos"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/6b58c4d8-a302-4f5d-a668-43af45822bfb.jpg",
+          "credits": "Rodenbusch Neto / Treze"
+        }
+      ],
+      "audio": "/catalog/audio/70079a66-f6f4-4b18-a8f7-f05ccdf00aaa.mp3",
+      "transcript": "O Estádio Presidente Vargas, conhecido simplesmente por PV, é um estádio de futebol pertencente ao Treze Futebol Clube, que o utiliza como Centro de Treinamento e sede de seus jogos. O Treze é o único clube paraibano a ter um estádio próprio.\nA construção do Estádio Presidente Vargas teve início em 1938, em um terreno doado por Argemiro de Figueiredo. O estádio foi inaugurado em 17 de março de 1940. O nome Presidente Vargas foi uma sugestão do próprio Argemiro, amigo do então presidente Getúlio Vargas.\nA fundação do Treze Futebol Clube antecede a do estádio. Em 7 de setembro de 1925, Bioca se reuniu com mais doze desportistas em sua residência e fundou o novo clube de futebol. Durante essa reunião, Antônio Fernandes Bioca foi aclamado presidente interino, com o Dr. Luiz Gomes da Silva como orador e o Sr. Alberto Santos como secretário. Ficou decidido que uma nova reunião seria marcada em breve para definir outros detalhes do clube.\nNa segunda reunião, ocorrida em 20 de outubro de 1925 na residência de Bioca, foi discutido o nome do clube. A proposta aceita foi a do Sr. José Casado, que sugeriu o nome Treze Futebol Clube, em referência ao número de fundadores, que eram treze pessoas.\nAssim, o Treze Futebol Clube e o Estádio Presidente Vargas têm suas histórias entrelaçadas desde o início, com o clube crescendo e se desenvolvendo junto ao seu estádio, que se tornou um símbolo e um marco na cidade de Campina Grande.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": true,
+      "hours": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": -2056357134,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Praça da Bandeira",
+      "type": "Praça",
+      "latitude": -7.21954045838116,
+      "longitude": -35.8851592997915,
+      "address": "Centro, Campina Grande - PB, 58400-087",
+      "entryPrice": 0.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "História e Cultura",
+        "Arquitetura e Urbanismo"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/cde79ddc-cede-4a56-aaa6-f010c07b00b3.jpg",
+          "credits": "Bruno Coitinho Araújo - Wikimidia Commons"
+        }
+      ],
+      "audio": "/catalog/audio/c92eafc9-e54f-4075-8616-ed35ef90e56e.mp3",
+      "transcript": "A Praça da Bandeira, localizada no coração de Campina Grande, é um local emblemático repleto de história e significado. Desde o período colonial, a praça foi concebida como um espaço público para encontros e eventos cívicos, desempenhando um papel central na vida social e cultural da cidade.\nUm evento marcante ocorreu em 9 de julho de 1950, quando um showmício com grandes lideranças e artistas nacionais, incluindo Luiz Gonzaga, atraiu uma multidão. O palanque, montado ao lado do atual abrigo Maringá, foi o palco de um trágico conflito político. Disparos de armas de fogo durante um discurso inflamado resultaram na morte de três pessoas e mais de vinte feridos, marcando profundamente a memória da cidade e servindo como um lembrete dos perigos das paixões políticas descontroladas.\nA praça também é conhecida por suas curiosidades e mistérios. Em 1985, a escultura \"A Samaritana\" do renomado escultor pernambucano Abelardo da Hora desapareceu misteriosamente, seguida pelo sumiço da estátua substituta do escultor campinense LABAS em 2016. Esses desaparecimentos sem explicações claras refletem uma relação complexa entre a arte pública e a gestão urbana.\nAlém disso, a Praça da Bandeira é um espaço de homenagem e memória. A estátua do ex-presidente Juscelino Kubitschek presta uma merecida homenagem a um dos líderes mais influentes do Brasil. Curiosamente, a praça só exibe bandeiras durante a Semana da Pátria, ressaltando o espírito cívico do local.\nAo longo do ano, a praça se transforma em um palco para diversas festividades e eventos culturais, como shows musicais, apresentações teatrais, feiras de artesanato e comemorações cívicas, reunindo moradores e visitantes em momentos de celebração e integração.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": false,
+      "hours": [
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59",
+        "00:00-23:59"
+      ]
+    },
+    {
+      "id": -2864103062,
+      "source": "recovered",
+      "locationNeedsReview": false,
+      "name": "Fruteira de Seu Cristino",
+      "type": "Prédio",
+      "latitude": -7.21727675948574,
+      "longitude": -35.8851948173411,
+      "address": "R. Venâncio Neiva, 287 - Centro, Campina Grande - PB, 58400-103",
+      "entryPrice": -1.0,
+      "accessible": true,
+      "rating": 0,
+      "tags": [
+        "História e Cultura",
+        "Entretenimento e Eventos"
+      ],
+      "images": [
+        {
+          "url": "/catalog/images/605ad2cb-4efa-4922-9cbf-9b16403e074a.jpg",
+          "credits": "cgretalhos.blogspot.com"
+        }
+      ],
+      "audio": "/catalog/audio/3d82ca67-7c93-4b51-ae16-6f5098a19395.mp3",
+      "transcript": "Durante 25 anos, de 1928 a 1953, o edifício abrigou a famosa Fruteira de Seu Cristino Pimentel. Localizada na Rua Monsenhor Sales, 42 (Beco 31), onde hoje funcionam a Loja Lily Baby e a Rafaella Ótica, a fruteira era muito mais do que um simples ponto de venda de frutas. Na verdade, o local se transformou em um bar disfarçado, um ponto de encontro para intelectuais, professores, advogados, poetas, escritores e os populares \"zébios\" da cidade.\nA fruteira era conhecida pelo seu aperitivo oficial, o \"primoroso\", uma deliciosa mistura de cachaça, mel, limão e suco de maracujá. Este ambiente boêmio era um verdadeiro centro cultural, onde ideias e debates floresciam ao lado dos copos de aperitivos. Em 1953, Cristino Pimentel decidiu se dedicar exclusivamente à sua atividade literária, encerrando a fruteira de forma festiva. Ele organizou uma celebração onde a consumação foi gratuita e exigiu dos clientes, carinhosamente chamados de \"abelhas\", o compromisso de não deixar nada para trás. A festa começou num sábado à tarde e se estendeu até o domingo seguinte, culminando com a quebra de todas as taças e copos para que Cristino não pudesse se arrepender.",
+      "language": "pt",
+      "email": "",
+      "telephone": "",
+      "shouldContact": true,
+      "hours": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}
